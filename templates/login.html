@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EdgeShield AI — Login</title>
+    <meta name="description" content="Secure login to EdgeShield AI Industrial Safety Surveillance System">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: #0a0f1e;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        /* Animated background */
+        .bg-mesh {
+            position: fixed; inset: 0; z-index: 0;
+            background:
+                radial-gradient(ellipse 80% 60% at 20% 20%, rgba(0,212,255,0.08) 0%, transparent 60%),
+                radial-gradient(ellipse 60% 80% at 80% 80%, rgba(139,92,246,0.10) 0%, transparent 60%),
+                radial-gradient(ellipse 50% 50% at 50% 50%, rgba(16,185,129,0.04) 0%, transparent 70%);
+        }
+        .bg-grid {
+            position: fixed; inset: 0; z-index: 0;
+            background-image:
+                linear-gradient(rgba(0,212,255,0.04) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0,212,255,0.04) 1px, transparent 1px);
+            background-size: 40px 40px;
+        }
+        .orb {
+            position: fixed; border-radius: 50%; filter: blur(80px); z-index: 0; animation: orbFloat 8s ease-in-out infinite;
+        }
+        .orb-1 { width: 400px; height: 400px; background: rgba(0,212,255,0.07); top: -100px; left: -100px; animation-delay: 0s; }
+        .orb-2 { width: 300px; height: 300px; background: rgba(139,92,246,0.08); bottom: -80px; right: -80px; animation-delay: -4s; }
+        @keyframes orbFloat {
+            0%, 100% { transform: translate(0,0) scale(1); }
+            50% { transform: translate(30px, 20px) scale(1.05); }
+        }
+
+        /* Login card */
+        .login-wrapper {
+            position: relative; z-index: 10;
+            width: 100%; max-width: 440px;
+            padding: 20px;
+        }
+        .login-card {
+            background: rgba(15,23,42,0.85);
+            border: 1px solid rgba(0,212,255,0.15);
+            border-radius: 24px;
+            padding: 48px 40px;
+            backdrop-filter: blur(20px);
+            box-shadow: 0 32px 80px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.03);
+            animation: cardIn 0.6s cubic-bezier(0.34,1.56,0.64,1);
+        }
+        @keyframes cardIn {
+            from { opacity: 0; transform: translateY(30px) scale(0.96); }
+            to   { opacity: 1; transform: translateY(0) scale(1); }
+        }
+
+        .brand {
+            display: flex; align-items: center; gap: 12px; margin-bottom: 8px;
+        }
+        .brand-icon {
+            width: 48px; height: 48px;
+            background: linear-gradient(135deg, #00d4ff, #7c3aed);
+            border-radius: 14px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 22px; color: #fff;
+            box-shadow: 0 8px 24px rgba(0,212,255,0.3);
+        }
+        .brand-name { font-size: 22px; font-weight: 700; color: #f1f5f9; }
+        .brand-name span { color: #00d4ff; }
+
+        .login-title { font-size: 14px; color: #64748b; margin-bottom: 36px; }
+
+        .form-group { margin-bottom: 20px; }
+        .form-group label {
+            display: block; font-size: 13px; font-weight: 500;
+            color: #94a3b8; margin-bottom: 8px; letter-spacing: 0.3px;
+        }
+        .input-wrapper {
+            position: relative;
+        }
+        .input-wrapper i {
+            position: absolute; left: 16px; top: 50%; transform: translateY(-50%);
+            color: #475569; font-size: 15px; pointer-events: none;
+            transition: color 0.2s;
+        }
+        .input-wrapper input {
+            width: 100%;
+            padding: 14px 16px 14px 44px;
+            background: rgba(15,23,42,0.8);
+            border: 1.5px solid rgba(100,116,139,0.2);
+            border-radius: 12px;
+            color: #f1f5f9;
+            font-family: 'Outfit', sans-serif;
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .input-wrapper input:focus {
+            border-color: #00d4ff;
+            box-shadow: 0 0 0 3px rgba(0,212,255,0.1);
+        }
+        .input-wrapper input:focus + i,
+        .input-wrapper:focus-within i { color: #00d4ff; }
+        .input-wrapper input::placeholder { color: #475569; }
+
+        .toggle-pw {
+            position: absolute; right: 14px; top: 50%; transform: translateY(-50%);
+            background: none; border: none; color: #475569; cursor: pointer;
+            font-size: 15px; transition: color 0.2s; pointer-events: all;
+        }
+        .toggle-pw:hover { color: #00d4ff; }
+
+        .error-msg {
+            display: none;
+            background: rgba(239,68,68,0.1);
+            border: 1px solid rgba(239,68,68,0.3);
+            border-radius: 10px;
+            color: #f87171;
+            font-size: 13px;
+            padding: 12px 16px;
+            margin-bottom: 20px;
+            animation: shake 0.4s ease;
+        }
+        @keyframes shake {
+            0%,100% { transform: translateX(0); }
+            25% { transform: translateX(-6px); }
+            75% { transform: translateX(6px); }
+        }
+
+        .btn-login {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #00d4ff, #7c3aed);
+            border: none; border-radius: 12px;
+            color: #fff; font-family: 'Outfit', sans-serif;
+            font-size: 15px; font-weight: 600;
+            cursor: pointer; letter-spacing: 0.3px;
+            transition: opacity 0.2s, transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 8px 24px rgba(0,212,255,0.25);
+            display: flex; align-items: center; justify-content: center; gap: 8px;
+        }
+        .btn-login:hover { opacity: 0.92; transform: translateY(-1px); box-shadow: 0 12px 32px rgba(0,212,255,0.35); }
+        .btn-login:active { transform: translateY(0); }
+        .btn-login:disabled { opacity: 0.6; cursor: not-allowed; transform: none; }
+
+        .hint-box {
+            margin-top: 24px;
+            background: rgba(0,212,255,0.05);
+            border: 1px solid rgba(0,212,255,0.12);
+            border-radius: 10px;
+            padding: 14px 16px;
+            font-size: 12px; color: #64748b;
+            line-height: 1.7;
+        }
+        .hint-box strong { color: #00d4ff; }
+    </style>
+</head>
+<body>
+<div class="bg-mesh"></div>
+<div class="bg-grid"></div>
+<div class="orb orb-1"></div>
+<div class="orb orb-2"></div>
+
+<div class="login-wrapper">
+    <div class="login-card">
+        <div class="brand">
+            <div class="brand-icon"><i class="fa-solid fa-shield-halved"></i></div>
+            <span class="brand-name">Edge<span>Shield</span> AI</span>
+        </div>
+        <p class="login-title">Industrial Safety Surveillance System — Secure Access</p>
+
+        <div class="error-msg" id="error-msg">
+            <i class="fa-solid fa-circle-exclamation"></i> &nbsp;Invalid username or password.
+        </div>
+
+        <form id="login-form" method="POST" action="/login">
+            <div class="form-group">
+                <label for="username">Username</label>
+                <div class="input-wrapper">
+                    <i class="fa-solid fa-user"></i>
+                    <input type="text" id="username" name="username" placeholder="Enter username" required autocomplete="username">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <div class="input-wrapper">
+                    <i class="fa-solid fa-lock"></i>
+                    <input type="password" id="password" name="password" placeholder="••••••••" required autocomplete="current-password">
+                    <button type="button" class="toggle-pw" id="toggle-pw" tabindex="-1">
+                        <i class="fa-solid fa-eye" id="pw-eye"></i>
+                    </button>
+                </div>
+            </div>
+
+            {% if error %}
+            <script>document.getElementById('error-msg').style.display='block';</script>
+            {% endif %}
+
+            <button type="submit" class="btn-login" id="btn-login">
+                <i class="fa-solid fa-right-to-bracket"></i> Sign In to Dashboard
+            </button>
+        </form>
+    </div>
+</div>
+
+<script>
+    const toggle = document.getElementById('toggle-pw');
+    const pw = document.getElementById('password');
+    const eye = document.getElementById('pw-eye');
+    toggle.addEventListener('click', () => {
+        const show = pw.type === 'password';
+        pw.type = show ? 'text' : 'password';
+        eye.className = show ? 'fa-solid fa-eye-slash' : 'fa-solid fa-eye';
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EdgeShield AI — Incident History</title>
+    <meta name="description" content="Browse all past PPE violations and safety incidents with filters and export.">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        :root {
+            --bg: #0a0f1e; --surface: #0f172a; --surface2: #1e293b;
+            --border: rgba(100,116,139,0.18); --accent: #00d4ff;
+            --violet: #7c3aed; --emerald: #10b981; --alert: #ef4444;
+            --amber: #f59e0b; --text: #f1f5f9; --muted: #64748b;
+        }
+        body { font-family: 'Outfit', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+        .app-container { display: flex; height: 100vh; overflow: hidden; }
+
+        /* Sidebar */
+        .sidebar {
+            width: 220px; min-width: 220px;
+            background: var(--surface);
+            border-right: 1px solid var(--border);
+            display: flex; flex-direction: column;
+            padding: 24px 16px;
+            gap: 8px;
+        }
+        .sidebar-header { margin-bottom: 28px; }
+        .logo { display: flex; align-items: center; gap: 10px; font-size: 18px; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+        .logo-icon { color: var(--accent); font-size: 22px; }
+        .system-status { display: flex; align-items: center; gap: 8px; }
+        .status-pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--emerald); box-shadow: 0 0 8px var(--emerald); animation: pulse 2s infinite; }
+        @keyframes pulse { 0%,100%{opacity:1}50%{opacity:0.5} }
+        .status-text { font-size: 11px; font-weight: 600; color: var(--emerald); letter-spacing: 1px; text-transform: uppercase; }
+
+        .nav-item {
+            display: flex; align-items: center; gap: 12px;
+            padding: 11px 14px; border-radius: 10px;
+            color: var(--muted); font-size: 14px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s;
+        }
+        .nav-item:hover { background: rgba(0,212,255,0.07); color: var(--text); }
+        .nav-item.active { background: rgba(0,212,255,0.12); color: var(--accent); }
+        .nav-item i { width: 18px; text-align: center; }
+        .sidebar-footer { margin-top: auto; font-size: 11px; color: var(--muted); padding: 8px 4px; }
+
+        /* Main */
+        .main-content { flex: 1; overflow-y: auto; padding: 32px; }
+        .page-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 28px; flex-wrap: wrap; gap: 16px; }
+        .page-header h1 { font-size: 22px; font-weight: 700; color: var(--text); }
+        .page-header p { font-size: 13px; color: var(--muted); margin-top: 4px; }
+
+        .header-actions { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+
+        .btn {
+            display: inline-flex; align-items: center; gap: 8px;
+            padding: 10px 18px; border-radius: 10px; border: none;
+            font-family: 'Outfit', sans-serif; font-size: 13px; font-weight: 600;
+            cursor: pointer; transition: all 0.2s; text-decoration: none;
+        }
+        .btn-primary { background: linear-gradient(135deg, var(--accent), var(--violet)); color: #fff; box-shadow: 0 4px 16px rgba(0,212,255,0.2); }
+        .btn-primary:hover { opacity: 0.9; transform: translateY(-1px); }
+        .btn-secondary { background: var(--surface2); color: var(--text); border: 1px solid var(--border); }
+        .btn-secondary:hover { border-color: var(--accent); color: var(--accent); }
+        .btn-danger-sm { background: rgba(239,68,68,0.1); color: #f87171; border: 1px solid rgba(239,68,68,0.2); padding: 6px 12px; border-radius: 8px; font-size: 12px; }
+        .btn-danger-sm:hover { background: rgba(239,68,68,0.2); }
+
+        /* Stat cards */
+        .stats-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 16px; margin-bottom: 24px; }
+        .stat-card {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 14px; padding: 20px;
+            display: flex; align-items: center; gap: 14px;
+        }
+        .stat-icon { width: 44px; height: 44px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 18px; flex-shrink: 0; }
+        .stat-icon.red { background: rgba(239,68,68,0.12); color: #f87171; }
+        .stat-icon.amber { background: rgba(245,158,11,0.12); color: var(--amber); }
+        .stat-icon.emerald { background: rgba(16,185,129,0.12); color: var(--emerald); }
+        .stat-icon.cyan { background: rgba(0,212,255,0.12); color: var(--accent); }
+        .stat-val { font-size: 26px; font-weight: 700; line-height: 1; }
+        .stat-label { font-size: 12px; color: var(--muted); margin-top: 4px; }
+
+        /* Charts row */
+        .charts-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 24px; }
+        @media (max-width: 900px) { .charts-row { grid-template-columns: 1fr; } }
+
+        .card {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 14px; overflow: hidden;
+        }
+        .card-header {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border);
+        }
+        .card-header h3 { font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+        .text-accent { color: var(--accent); }
+        .chart-wrap { padding: 20px; height: 220px; }
+
+        /* Filters */
+        .filters-bar {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 14px; padding: 16px 20px;
+            display: flex; align-items: center; gap: 12px; margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .filter-label { font-size: 13px; color: var(--muted); font-weight: 500; white-space: nowrap; }
+        .filter-input {
+            background: var(--surface2); border: 1px solid var(--border);
+            border-radius: 8px; color: var(--text);
+            font-family: 'Outfit', sans-serif; font-size: 13px;
+            padding: 8px 12px; outline: none;
+            transition: border-color 0.2s;
+        }
+        .filter-input:focus { border-color: var(--accent); }
+        .filter-input option { background: var(--surface2); }
+
+        /* Table */
+        .table-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
+        .table-wrap { overflow-x: auto; }
+        table { width: 100%; border-collapse: collapse; }
+        thead { background: rgba(0,212,255,0.05); }
+        th { padding: 14px 18px; font-size: 11px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.8px; text-align: left; white-space: nowrap; }
+        td { padding: 14px 18px; font-size: 13px; color: var(--text); border-top: 1px solid var(--border); vertical-align: middle; }
+        tr:hover td { background: rgba(255,255,255,0.02); }
+
+        .badge-type {
+            display: inline-flex; align-items: center; gap: 5px;
+            padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 600;
+        }
+        .badge-unauth { background: rgba(239,68,68,0.12); color: #f87171; }
+        .badge-ppe    { background: rgba(245,158,11,0.12); color: var(--amber); }
+
+        .person-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            background: rgba(0,212,255,0.08); border: 1px solid rgba(0,212,255,0.15);
+            padding: 3px 10px; border-radius: 20px; font-size: 12px; color: var(--accent);
+        }
+        .unauth-chip {
+            background: rgba(239,68,68,0.08); border: 1px solid rgba(239,68,68,0.15);
+            color: #f87171;
+        }
+        .score-pill {
+            display: inline-block; padding: 3px 10px; border-radius: 20px;
+            font-size: 12px; font-weight: 600;
+        }
+        .score-ok   { background: rgba(16,185,129,0.12); color: var(--emerald); }
+        .score-warn { background: rgba(245,158,11,0.12); color: var(--amber); }
+        .score-bad  { background: rgba(239,68,68,0.12); color: #f87171; }
+
+        .snapshot-thumb {
+            width: 56px; height: 42px; object-fit: cover; border-radius: 6px;
+            border: 1px solid var(--border); cursor: pointer; transition: transform 0.2s;
+        }
+        .snapshot-thumb:hover { transform: scale(1.08); }
+
+        .table-footer {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 14px 20px; border-top: 1px solid var(--border);
+            font-size: 12px; color: var(--muted);
+        }
+        .pagination { display: flex; gap: 6px; }
+        .pg-btn {
+            width: 32px; height: 32px; border-radius: 8px; border: 1px solid var(--border);
+            background: var(--surface2); color: var(--text); font-size: 12px;
+            cursor: pointer; display: flex; align-items: center; justify-content: center;
+            transition: all 0.2s;
+        }
+        .pg-btn:hover, .pg-btn.active { background: rgba(0,212,255,0.12); border-color: var(--accent); color: var(--accent); }
+
+        /* Modal */
+        .modal-backdrop {
+            display: none; position: fixed; inset: 0; z-index: 100;
+            background: rgba(0,0,0,0.7); backdrop-filter: blur(4px);
+            align-items: center; justify-content: center;
+        }
+        .modal-backdrop.open { display: flex; }
+        .modal {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 20px; padding: 28px; max-width: 500px; width: 90%;
+            box-shadow: 0 32px 80px rgba(0,0,0,0.5);
+            animation: modalIn 0.3s cubic-bezier(0.34,1.56,0.64,1);
+        }
+        @keyframes modalIn { from { opacity:0; transform:scale(0.9); } to { opacity:1; transform:scale(1); } }
+        .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+        .modal-header h3 { font-size: 16px; font-weight: 700; }
+        .modal-close { background: none; border: none; color: var(--muted); font-size: 18px; cursor: pointer; }
+        .modal-close:hover { color: var(--text); }
+        .modal img { width: 100%; border-radius: 12px; }
+
+        .empty-state {
+            text-align: center; padding: 60px 20px; color: var(--muted);
+        }
+        .empty-state i { font-size: 40px; margin-bottom: 16px; opacity: 0.4; }
+        .empty-state p { font-size: 14px; }
+
+        .logout-btn {
+            display: flex; align-items: center; gap: 8px;
+            color: var(--muted); font-size: 13px; text-decoration: none;
+            padding: 10px 14px; border-radius: 10px; margin-top: 4px;
+            transition: all 0.2s;
+        }
+        .logout-btn:hover { background: rgba(239,68,68,0.1); color: #f87171; }
+    </style>
+</head>
+<body>
+<div class="app-container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <div class="logo"><i class="fa-solid fa-shield-halved logo-icon"></i> <span>EdgeShield AI</span></div>
+            <div class="system-status">
+                <span class="status-pulse"></span>
+                <span class="status-text">Live Monitoring</span>
+            </div>
+        </div>
+        <nav>
+            <a href="/" class="nav-item"><i class="fa-solid fa-tv"></i><span>Live Monitor</span></a>
+            <a href="/" class="nav-item"><i class="fa-solid fa-users-gear"></i><span>Face Registry</span></a>
+            <a href="/" class="nav-item"><i class="fa-solid fa-upload"></i><span>Static Test</span></a>
+            <a href="/history" class="nav-item active"><i class="fa-solid fa-clock-rotate-left"></i><span>History</span></a>
+        </nav>
+        <div class="sidebar-footer">
+            <a href="/logout" class="logout-btn"><i class="fa-solid fa-right-from-bracket"></i> Logout ({{ session_user }})</a>
+            <p style="margin-top:8px;">Framework v1.3.0 (YOLOv8)</p>
+        </div>
+    </aside>
+
+    <!-- Main -->
+    <main class="main-content">
+        <div class="page-header">
+            <div>
+                <h1><i class="fa-solid fa-clock-rotate-left" style="color:var(--accent);margin-right:10px;"></i>Incident History</h1>
+                <p>Browse, filter and export all recorded safety incidents</p>
+            </div>
+            <div class="header-actions">
+                <button class="btn btn-secondary" id="btn-export-csv"><i class="fa-solid fa-file-csv"></i> Export CSV</button>
+                <button class="btn btn-primary" id="btn-clear-all" onclick="confirmClear()"><i class="fa-solid fa-trash"></i> Clear All</button>
+            </div>
+        </div>
+
+        <!-- Stats -->
+        <div class="stats-row" id="stats-row">
+            <div class="stat-card"><div class="stat-icon red"><i class="fa-solid fa-triangle-exclamation"></i></div><div><div class="stat-val" id="stat-total">0</div><div class="stat-label">Total Incidents</div></div></div>
+            <div class="stat-card"><div class="stat-icon amber"><i class="fa-solid fa-hard-hat"></i></div><div><div class="stat-val" id="stat-ppe">0</div><div class="stat-label">PPE Violations</div></div></div>
+            <div class="stat-card"><div class="stat-icon red"><i class="fa-solid fa-user-slash"></i></div><div><div class="stat-val" id="stat-unauth">0</div><div class="stat-label">Unauthorized</div></div></div>
+            <div class="stat-card"><div class="stat-icon emerald"><i class="fa-solid fa-calendar-day"></i></div><div><div class="stat-val" id="stat-today">0</div><div class="stat-label">Today</div></div></div>
+        </div>
+
+        <!-- Charts -->
+        <div class="charts-row">
+            <div class="card">
+                <div class="card-header"><h3><i class="fa-solid fa-chart-bar text-accent"></i> Incidents Per Day (Last 7 Days)</h3></div>
+                <div class="chart-wrap"><canvas id="barChart"></canvas></div>
+            </div>
+            <div class="card">
+                <div class="card-header"><h3><i class="fa-solid fa-chart-pie text-accent"></i> Incident Breakdown</h3></div>
+                <div class="chart-wrap"><canvas id="pieChart"></canvas></div>
+            </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="filters-bar">
+            <span class="filter-label"><i class="fa-solid fa-filter"></i> Filters:</span>
+            <input type="date" class="filter-input" id="filter-date" title="Filter by date">
+            <select class="filter-input" id="filter-type">
+                <option value="">All Types</option>
+                <option value="Unauthorized">Unauthorized</option>
+                <option value="PPE violation">PPE Violation</option>
+            </select>
+            <input type="text" class="filter-input" id="filter-search" placeholder="Search person or message..." style="min-width:200px;">
+            <button class="btn btn-secondary" id="btn-clear-filter" style="padding:8px 14px;font-size:12px;">
+                <i class="fa-solid fa-xmark"></i> Clear
+            </button>
+        </div>
+
+        <!-- Table -->
+        <div class="table-card">
+            <div class="table-wrap">
+                <table id="incidents-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Timestamp</th>
+                            <th>Type</th>
+                            <th>Person</th>
+                            <th>Message</th>
+                            <th>Snapshot</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                        <tr><td colspan="6"><div class="empty-state"><i class="fa-solid fa-spinner fa-spin"></i><p>Loading incidents...</p></div></td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="table-footer">
+                <span id="table-info">Showing 0 incidents</span>
+                <div class="pagination" id="pagination"></div>
+            </div>
+        </div>
+    </main>
+</div>
+
+<!-- Snapshot Modal -->
+<div class="modal-backdrop" id="modal" onclick="closeModal(event)">
+    <div class="modal">
+        <div class="modal-header">
+            <h3 id="modal-title">Incident Snapshot</h3>
+            <button class="modal-close" onclick="document.getElementById('modal').classList.remove('open')"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <img id="modal-img" src="" alt="Snapshot">
+        <p id="modal-caption" style="font-size:12px;color:var(--muted);margin-top:12px;"></p>
+    </div>
+</div>
+
+<script>
+const PAGE_SIZE = 15;
+let allIncidents = [];
+let filteredIncidents = [];
+let currentPage = 1;
+let barChart, pieChart;
+
+async function loadIncidents() {
+    try {
+        const res = await fetch('/api/history');
+        allIncidents = await res.json();
+        applyFilters();
+        renderCharts();
+        renderStats();
+    } catch(e) {
+        document.getElementById('table-body').innerHTML = `<tr><td colspan="6"><div class="empty-state"><i class="fa-solid fa-circle-exclamation"></i><p>Failed to load incidents.</p></div></td></tr>`;
+    }
+}
+
+function renderStats() {
+    const today = new Date().toISOString().slice(0,10);
+    document.getElementById('stat-total').textContent = allIncidents.length;
+    document.getElementById('stat-ppe').textContent = allIncidents.filter(i => i.message && i.message.toLowerCase().includes('ppe')).length;
+    document.getElementById('stat-unauth').textContent = allIncidents.filter(i => i.message && i.message.toLowerCase().includes('unauthorized')).length;
+    document.getElementById('stat-today').textContent = allIncidents.filter(i => i.timestamp && i.timestamp.startsWith(today)).length;
+}
+
+function applyFilters() {
+    const date = document.getElementById('filter-date').value;
+    const type = document.getElementById('filter-type').value.toLowerCase();
+    const search = document.getElementById('filter-search').value.toLowerCase();
+    filteredIncidents = allIncidents.filter(i => {
+        if (date && !(i.timestamp || '').startsWith(date)) return false;
+        if (type && !(i.message || '').toLowerCase().includes(type)) return false;
+        if (search && !(i.message || '').toLowerCase().includes(search) && !(i.person || '').toLowerCase().includes(search)) return false;
+        return true;
+    });
+    currentPage = 1;
+    renderTable();
+    renderPagination();
+}
+
+function renderTable() {
+    const tbody = document.getElementById('table-body');
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const page  = filteredIncidents.slice(start, start + PAGE_SIZE);
+    document.getElementById('table-info').textContent = `Showing ${filteredIncidents.length} incident${filteredIncidents.length !== 1 ? 's' : ''}`;
+
+    if (page.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="6"><div class="empty-state"><i class="fa-solid fa-bell-slash"></i><p>No incidents found.</p></div></td></tr>`;
+        return;
+    }
+
+    tbody.innerHTML = page.map((inc, idx) => {
+        const num = start + idx + 1;
+        const isUnauth = (inc.message || '').toLowerCase().includes('unauthorized');
+        const badgeCls = isUnauth ? 'badge-unauth' : 'badge-ppe';
+        const badgeIcon = isUnauth ? 'fa-user-slash' : 'fa-hard-hat';
+        const badgeText = isUnauth ? 'Unauthorized' : 'PPE Violation';
+        const personCls = (inc.person && inc.person !== 'UNAUTHORIZED') ? 'person-chip' : 'person-chip unauth-chip';
+        const personTxt = inc.person || '—';
+        const snapHtml = inc.snapshot
+            ? `<img class="snapshot-thumb" src="/snapshots/${inc.snapshot}" alt="snap" onclick="openModal('/snapshots/${inc.snapshot}','${inc.timestamp || ''}')">`
+            : '<span style="color:var(--muted);font-size:12px;">—</span>';
+        return `<tr>
+            <td style="color:var(--muted)">${num}</td>
+            <td style="white-space:nowrap">${inc.timestamp || '—'}</td>
+            <td><span class="badge-type ${badgeCls}"><i class="fa-solid ${badgeIcon}"></i> ${badgeText}</span></td>
+            <td><span class="${personCls}"><i class="fa-solid fa-user" style="font-size:10px;"></i> ${personTxt}</span></td>
+            <td>${inc.message || '—'}</td>
+            <td>${snapHtml}</td>
+        </tr>`;
+    }).join('');
+}
+
+function renderPagination() {
+    const total = Math.ceil(filteredIncidents.length / PAGE_SIZE);
+    const pg = document.getElementById('pagination');
+    pg.innerHTML = '';
+    if (total <= 1) return;
+    for (let i = 1; i <= total; i++) {
+        const btn = document.createElement('button');
+        btn.className = 'pg-btn' + (i === currentPage ? ' active' : '');
+        btn.textContent = i;
+        btn.onclick = () => { currentPage = i; renderTable(); renderPagination(); };
+        pg.appendChild(btn);
+    }
+}
+
+function renderCharts() {
+    // Bar chart: incidents per day
+    const days = {};
+    for (let i = 6; i >= 0; i--) {
+        const d = new Date(); d.setDate(d.getDate() - i);
+        days[d.toISOString().slice(0,10)] = 0;
+    }
+    allIncidents.forEach(inc => {
+        const d = (inc.timestamp || '').slice(0,10);
+        if (d in days) days[d]++;
+    });
+    const labels = Object.keys(days).map(d => { const dt = new Date(d); return dt.toLocaleDateString('en-US',{month:'short',day:'numeric'}); });
+
+    if (barChart) barChart.destroy();
+    barChart = new Chart(document.getElementById('barChart'), {
+        type: 'bar',
+        data: {
+            labels,
+            datasets: [{ label: 'Incidents', data: Object.values(days), backgroundColor: 'rgba(0,212,255,0.3)', borderColor: '#00d4ff', borderWidth: 2, borderRadius: 6 }]
+        },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: {
+            x: { grid: { color: 'rgba(100,116,139,0.1)' }, ticks: { color: '#64748b', font: { size: 11 } } },
+            y: { grid: { color: 'rgba(100,116,139,0.1)' }, ticks: { color: '#64748b', font: { size: 11 }, stepSize: 1 } }
+        } }
+    });
+
+    // Pie chart
+    const ppeCount = allIncidents.filter(i => (i.message||'').toLowerCase().includes('ppe')).length;
+    const unauthCount = allIncidents.filter(i => (i.message||'').toLowerCase().includes('unauthorized')).length;
+    const otherCount = allIncidents.length - ppeCount - unauthCount;
+
+    if (pieChart) pieChart.destroy();
+    pieChart = new Chart(document.getElementById('pieChart'), {
+        type: 'doughnut',
+        data: {
+            labels: ['PPE Violation', 'Unauthorized', 'Other'],
+            datasets: [{ data: [ppeCount, unauthCount, Math.max(0,otherCount)], backgroundColor: ['rgba(245,158,11,0.7)','rgba(239,68,68,0.7)','rgba(100,116,139,0.5)'], borderWidth: 2, borderColor: '#0f172a' }]
+        },
+        options: { responsive: true, maintainAspectRatio: false, cutout: '65%', plugins: { legend: { position: 'bottom', labels: { color: '#94a3b8', font: { size: 12 }, boxWidth: 14, padding: 12 } } } }
+    });
+}
+
+function openModal(src, ts) {
+    document.getElementById('modal-img').src = src;
+    document.getElementById('modal-caption').textContent = 'Recorded at: ' + ts;
+    document.getElementById('modal').classList.add('open');
+}
+function closeModal(e) { if (e.target === document.getElementById('modal')) document.getElementById('modal').classList.remove('open'); }
+
+// Export CSV
+document.getElementById('btn-export-csv').addEventListener('click', () => {
+    const rows = [['#','Timestamp','Type','Person','Message','Snapshot']];
+    filteredIncidents.forEach((inc, i) => {
+        const isUnauth = (inc.message||'').toLowerCase().includes('unauthorized');
+        rows.push([i+1, inc.timestamp||'', isUnauth?'Unauthorized':'PPE Violation', inc.person||'', inc.message||'', inc.snapshot||'']);
+    });
+    const csv = rows.map(r => r.map(c => `"${c}"`).join(',')).join('\n');
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([csv], {type:'text/csv'}));
+    a.download = `edgeshield_incidents_${new Date().toISOString().slice(0,10)}.csv`;
+    a.click();
+});
+
+// Filters
+['filter-date','filter-type','filter-search'].forEach(id => {
+    document.getElementById(id).addEventListener('input', applyFilters);
+});
+document.getElementById('btn-clear-filter').addEventListener('click', () => {
+    document.getElementById('filter-date').value = '';
+    document.getElementById('filter-type').value = '';
+    document.getElementById('filter-search').value = '';
+    applyFilters();
+});
+
+function confirmClear() {
+    if (confirm('Are you sure you want to clear ALL incident history? This cannot be undone.')) {
+        fetch('/api/clear_history', {method:'POST'}).then(() => { allIncidents=[]; applyFilters(); renderStats(); renderCharts(); });
+    }
+}
+
+loadIncidents();
+</script>
+</body>
+</html>
