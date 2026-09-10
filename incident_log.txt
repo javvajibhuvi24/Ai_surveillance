@@ -1,0 +1,3040 @@
+[2026-05-28_18-57-47] Unauthorized person detected
+[2026-05-28_18-57-47] PPE violation detected
+[2026-05-28_18-57-48] Unauthorized person detected
+[2026-05-28_18-57-48] PPE violation detected
+[2026-05-28_18-57-48] Unauthorized person detected
+[2026-05-28_18-57-48] PPE violation detected
+[2026-05-28_18-57-49] Unauthorized person detected
+[2026-05-28_18-57-49] PPE violation detected
+[2026-05-28_18-57-49] Unauthorized person detected
+[2026-05-28_18-57-49] PPE violation detected
+[2026-05-28_18-57-49] Unauthorized person detected
+[2026-05-28_18-57-49] PPE violation detected
+[2026-05-28_18-57-50] Unauthorized person detected
+[2026-05-28_18-57-50] PPE violation detected
+[2026-05-28_18-57-50] Unauthorized person detected
+[2026-05-28_18-57-50] PPE violation detected
+[2026-05-28_18-57-50] Unauthorized person detected
+[2026-05-28_18-57-50] PPE violation detected
+[2026-05-28_18-57-50] Unauthorized person detected
+[2026-05-28_18-57-50] PPE violation detected
+[2026-05-28_18-57-50] Unauthorized person detected
+[2026-05-28_18-57-50] PPE violation detected
+[2026-05-28_18-57-51] Unauthorized person detected
+[2026-05-28_18-57-51] PPE violation detected
+[2026-05-28_18-57-51] Unauthorized person detected
+[2026-05-28_18-57-51] PPE violation detected
+[2026-05-28_18-57-51] Unauthorized person detected
+[2026-05-28_18-57-51] PPE violation detected
+[2026-05-28_18-57-51] Unauthorized person detected
+[2026-05-28_18-57-51] PPE violation detected
+[2026-05-28_18-57-51] Unauthorized person detected
+[2026-05-28_18-57-51] PPE violation detected
+[2026-05-28_18-57-51] Unauthorized person detected
+[2026-05-28_18-57-51] PPE violation detected
+[2026-05-28_18-57-51] Unauthorized person detected
+[2026-05-28_18-57-52] PPE violation detected
+[2026-05-28_18-57-52] Unauthorized person detected
+[2026-05-28_18-57-52] PPE violation detected
+[2026-05-28_18-57-52] Unauthorized person detected
+[2026-05-28_18-57-52] PPE violation detected
+[2026-05-28_18-57-52] Unauthorized person detected
+[2026-05-28_18-57-52] PPE violation detected
+[2026-05-28_18-57-52] Unauthorized person detected
+[2026-05-28_18-57-52] PPE violation detected
+[2026-05-28_18-57-52] Unauthorized person detected
+[2026-05-28_18-57-52] PPE violation detected
+[2026-05-28_18-57-52] Unauthorized person detected
+[2026-05-28_18-57-52] PPE violation detected
+[2026-05-28_18-57-52] Unauthorized person detected
+[2026-05-28_18-57-52] PPE violation detected
+[2026-05-28_18-57-53] Unauthorized person detected
+[2026-05-28_18-57-53] PPE violation detected
+[2026-05-28_18-57-53] Unauthorized person detected
+[2026-05-28_18-57-53] PPE violation detected
+[2026-05-28_18-57-53] Unauthorized person detected
+[2026-05-28_18-57-53] PPE violation detected
+[2026-05-28_18-57-53] Unauthorized person detected
+[2026-05-28_18-57-53] PPE violation detected
+[2026-05-28_18-58-12] PPE violation detected
+[2026-05-28_18-58-13] PPE violation detected
+[2026-05-28_18-58-13] PPE violation detected
+[2026-05-28_18-58-13] PPE violation detected
+[2026-05-28_18-58-13] PPE violation detected
+[2026-05-28_18-58-13] PPE violation detected
+[2026-05-28_18-58-14] PPE violation detected
+[2026-05-28_18-58-14] PPE violation detected
+[2026-05-28_18-58-15] PPE violation detected
+[2026-05-28_18-58-16] PPE violation detected
+[2026-05-28_18-58-16] PPE violation detected
+[2026-05-28_18-58-16] PPE violation detected
+[2026-05-28_18-58-16] PPE violation detected
+[2026-05-28_18-58-16] PPE violation detected
+[2026-05-28_18-58-16] PPE violation detected
+[2026-05-28_18-58-16] PPE violation detected
+[2026-05-28_18-58-17] PPE violation detected
+[2026-05-28_18-58-17] PPE violation detected
+[2026-05-28_18-58-17] PPE violation detected
+[2026-05-28_18-58-17] PPE violation detected
+[2026-05-28_18-58-17] PPE violation detected
+[2026-05-28_18-58-17] PPE violation detected
+[2026-05-28_18-58-18] PPE violation detected
+[2026-05-28_18-58-18] PPE violation detected
+[2026-05-28_18-58-18] PPE violation detected
+[2026-05-28_18-58-18] PPE violation detected
+[2026-05-28_18-58-18] PPE violation detected
+[2026-05-28_18-58-18] PPE violation detected
+[2026-05-28_18-58-18] PPE violation detected
+[2026-05-28_18-58-19] PPE violation detected
+[2026-05-28_18-58-21] PPE violation detected
+[2026-05-28_18-58-21] PPE violation detected
+[2026-05-28_18-58-21] PPE violation detected
+[2026-05-28_18-58-21] PPE violation detected
+[2026-05-28_18-58-22] PPE violation detected
+[2026-05-28_18-58-22] PPE violation detected
+[2026-05-28_18-58-22] PPE violation detected
+[2026-05-28_18-58-22] PPE violation detected
+[2026-05-28_18-58-22] PPE violation detected
+[2026-05-28_18-58-22] PPE violation detected
+[2026-05-28_18-58-22] PPE violation detected
+[2026-05-28_18-58-23] PPE violation detected
+[2026-05-28_18-58-23] PPE violation detected
+[2026-05-28_18-58-23] PPE violation detected
+[2026-05-28_18-58-23] PPE violation detected
+[2026-05-28_18-58-23] PPE violation detected
+[2026-05-28_18-58-23] PPE violation detected
+[2026-05-28_18-58-23] PPE violation detected
+[2026-05-28_18-58-24] PPE violation detected
+[2026-05-28_18-58-24] PPE violation detected
+[2026-05-28_18-58-24] PPE violation detected
+[2026-05-28_18-58-24] PPE violation detected
+[2026-05-28_18-58-24] PPE violation detected
+[2026-05-28_18-58-24] PPE violation detected
+[2026-05-28_18-58-25] PPE violation detected
+[2026-05-28_18-58-25] PPE violation detected
+[2026-05-28_18-58-25] PPE violation detected
+[2026-05-28_18-58-25] PPE violation detected
+[2026-05-28_18-58-25] PPE violation detected
+[2026-05-28_18-58-25] PPE violation detected
+[2026-05-28_18-58-27] PPE violation detected
+[2026-05-28_18-58-27] PPE violation detected
+[2026-05-28_18-58-28] PPE violation detected
+[2026-05-28_18-58-28] PPE violation detected
+[2026-05-28_18-58-28] PPE violation detected
+[2026-05-28_18-58-28] PPE violation detected
+[2026-05-28_18-58-28] PPE violation detected
+[2026-05-28_18-58-28] PPE violation detected
+[2026-05-28_18-58-28] PPE violation detected
+[2026-05-28_18-58-29] PPE violation detected
+[2026-05-28_18-58-29] PPE violation detected
+[2026-05-28_18-58-29] PPE violation detected
+[2026-05-28_18-58-29] PPE violation detected
+[2026-05-28_18-58-29] PPE violation detected
+[2026-05-28_18-58-29] PPE violation detected
+[2026-05-28_18-58-29] PPE violation detected
+[2026-05-28_18-58-30] PPE violation detected
+[2026-05-28_18-58-30] PPE violation detected
+[2026-05-28_18-58-30] PPE violation detected
+[2026-05-28_18-58-30] PPE violation detected
+[2026-05-28_18-58-30] PPE violation detected
+[2026-05-28_18-58-30] PPE violation detected
+[2026-05-28_18-58-31] PPE violation detected
+[2026-05-28_18-58-31] PPE violation detected
+[2026-05-28_18-58-31] PPE violation detected
+[2026-05-28_18-58-31] PPE violation detected
+[2026-05-28_18-58-31] PPE violation detected
+[2026-05-28_18-58-31] PPE violation detected
+[2026-05-28_18-58-31] PPE violation detected
+[2026-05-28_18-58-31] PPE violation detected
+[2026-05-28_18-58-33] PPE violation detected
+[2026-05-28_18-58-34] PPE violation detected
+[2026-05-28_18-58-34] PPE violation detected
+[2026-05-28_18-58-34] PPE violation detected
+[2026-05-28_18-58-34] PPE violation detected
+[2026-05-28_18-58-34] PPE violation detected
+[2026-05-28_18-58-34] PPE violation detected
+[2026-05-28_18-58-34] PPE violation detected
+[2026-05-28_18-58-35] PPE violation detected
+[2026-05-28_18-58-35] PPE violation detected
+[2026-05-28_18-58-35] PPE violation detected
+[2026-05-28_18-58-35] PPE violation detected
+[2026-05-28_18-58-35] PPE violation detected
+[2026-05-28_18-58-35] PPE violation detected
+[2026-05-28_18-58-35] PPE violation detected
+[2026-05-28_18-58-35] PPE violation detected
+[2026-05-28_18-58-36] PPE violation detected
+[2026-05-28_18-58-36] PPE violation detected
+[2026-05-28_18-58-36] PPE violation detected
+[2026-05-28_18-58-36] PPE violation detected
+[2026-05-28_18-58-36] PPE violation detected
+[2026-05-28_18-58-36] PPE violation detected
+[2026-05-28_18-58-36] PPE violation detected
+[2026-05-28_18-58-37] PPE violation detected
+[2026-05-28_18-58-37] PPE violation detected
+[2026-05-28_18-58-37] PPE violation detected
+[2026-05-28_18-58-37] PPE violation detected
+[2026-05-28_18-58-37] PPE violation detected
+[2026-05-28_18-58-37] PPE violation detected
+[2026-05-28_18-58-37] PPE violation detected
+[2026-05-28_18-58-39] PPE violation detected
+[2026-05-28_18-58-40] PPE violation detected
+[2026-05-28_18-58-40] PPE violation detected
+[2026-05-28_18-58-40] PPE violation detected
+[2026-05-28_18-58-40] PPE violation detected
+[2026-05-28_18-58-40] PPE violation detected
+[2026-05-28_18-58-40] PPE violation detected
+[2026-05-28_18-58-41] PPE violation detected
+[2026-05-28_18-58-41] PPE violation detected
+[2026-05-28_18-58-41] PPE violation detected
+[2026-05-28_18-58-41] PPE violation detected
+[2026-05-28_18-58-41] PPE violation detected
+[2026-05-28_18-58-41] PPE violation detected
+[2026-05-28_18-58-42] PPE violation detected
+[2026-05-28_18-58-42] PPE violation detected
+[2026-05-28_18-58-42] PPE violation detected
+[2026-05-28_18-58-42] PPE violation detected
+[2026-05-28_18-58-42] PPE violation detected
+[2026-05-28_18-58-42] PPE violation detected
+[2026-05-28_18-58-43] PPE violation detected
+[2026-05-28_18-58-43] PPE violation detected
+[2026-05-28_18-58-43] PPE violation detected
+[2026-05-28_18-58-43] PPE violation detected
+[2026-05-28_18-58-43] PPE violation detected
+[2026-05-28_18-58-43] PPE violation detected
+[2026-05-28_18-58-43] PPE violation detected
+[2026-05-28_18-58-44] PPE violation detected
+[2026-05-28_18-58-44] PPE violation detected
+[2026-05-28_18-58-44] PPE violation detected
+[2026-05-28_18-58-44] PPE violation detected
+[2026-05-28_18-58-46] PPE violation detected
+[2026-05-28_18-58-46] PPE violation detected
+[2026-05-28_18-58-46] PPE violation detected
+[2026-05-28_18-58-46] PPE violation detected
+[2026-05-28_18-58-47] PPE violation detected
+[2026-05-28_18-58-47] PPE violation detected
+[2026-05-28_18-58-47] PPE violation detected
+[2026-05-28_18-58-47] PPE violation detected
+[2026-05-28_18-58-47] PPE violation detected
+[2026-05-28_18-58-47] PPE violation detected
+[2026-05-28_18-58-47] PPE violation detected
+[2026-05-28_18-58-48] PPE violation detected
+[2026-05-28_18-58-48] PPE violation detected
+[2026-05-28_18-58-48] PPE violation detected
+[2026-05-28_18-58-48] PPE violation detected
+[2026-05-28_18-58-48] PPE violation detected
+[2026-05-28_18-58-48] PPE violation detected
+[2026-05-28_18-58-48] PPE violation detected
+[2026-05-28_18-58-49] PPE violation detected
+[2026-05-28_18-58-49] PPE violation detected
+[2026-05-28_18-58-49] PPE violation detected
+[2026-05-28_18-58-49] PPE violation detected
+[2026-05-28_18-58-49] PPE violation detected
+[2026-05-28_18-58-49] PPE violation detected
+[2026-05-28_18-58-49] PPE violation detected
+[2026-05-28_18-58-50] PPE violation detected
+[2026-05-28_18-58-50] PPE violation detected
+[2026-05-28_18-58-50] PPE violation detected
+[2026-05-28_18-58-50] PPE violation detected
+[2026-05-28_18-58-50] PPE violation detected
+[2026-05-28_18-58-52] PPE violation detected
+[2026-05-28_18-58-52] PPE violation detected
+[2026-05-28_18-58-52] PPE violation detected
+[2026-05-28_18-58-53] PPE violation detected
+[2026-05-28_18-58-53] PPE violation detected
+[2026-05-28_18-58-53] PPE violation detected
+[2026-05-28_18-58-53] PPE violation detected
+[2026-05-28_18-58-53] PPE violation detected
+[2026-05-28_18-58-54] PPE violation detected
+[2026-05-28_18-58-54] PPE violation detected
+[2026-05-28_18-58-54] PPE violation detected
+[2026-05-28_18-58-54] PPE violation detected
+[2026-05-28_18-58-54] PPE violation detected
+[2026-05-28_18-58-54] PPE violation detected
+[2026-05-28_18-58-55] PPE violation detected
+[2026-05-28_18-58-55] PPE violation detected
+[2026-05-28_18-58-55] PPE violation detected
+[2026-05-28_18-58-55] PPE violation detected
+[2026-05-28_18-58-55] PPE violation detected
+[2026-05-28_18-58-56] PPE violation detected
+[2026-05-28_18-58-56] PPE violation detected
+[2026-05-28_18-58-56] PPE violation detected
+[2026-05-28_18-58-56] PPE violation detected
+[2026-05-28_18-58-56] PPE violation detected
+[2026-05-28_18-58-56] PPE violation detected
+[2026-05-28_18-58-56] PPE violation detected
+[2026-05-28_18-58-57] PPE violation detected
+[2026-05-28_18-58-57] PPE violation detected
+[2026-05-28_18-58-57] PPE violation detected
+[2026-05-28_18-58-57] PPE violation detected
+[2026-05-28_18-58-59] PPE violation detected
+[2026-05-28_19-16-18] Unauthorized person detected
+[2026-05-28_19-16-18] PPE violation detected
+[2026-05-28_19-16-18] Unauthorized person detected
+[2026-05-28_19-16-18] PPE violation detected
+[2026-05-28_19-16-18] Unauthorized person detected
+[2026-05-28_19-16-18] PPE violation detected
+[2026-05-28_19-16-18] Unauthorized person detected
+[2026-05-28_19-16-18] PPE violation detected
+[2026-05-28_19-16-18] Unauthorized person detected
+[2026-05-28_19-16-19] PPE violation detected
+[2026-05-28_19-16-19] Unauthorized person detected
+[2026-05-28_19-16-19] PPE violation detected
+[2026-05-28_19-16-19] Unauthorized person detected
+[2026-05-28_19-16-19] PPE violation detected
+[2026-05-28_19-16-19] Unauthorized person detected
+[2026-05-28_19-16-19] PPE violation detected
+[2026-05-28_19-16-19] Unauthorized person detected
+[2026-05-28_19-16-19] PPE violation detected
+[2026-05-28_19-16-19] Unauthorized person detected
+[2026-05-28_19-16-19] PPE violation detected
+[2026-05-28_19-16-19] Unauthorized person detected
+[2026-05-28_19-16-19] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-20] Unauthorized person detected
+[2026-05-28_19-16-20] PPE violation detected
+[2026-05-28_19-16-21] Unauthorized person detected
+[2026-05-28_19-16-21] PPE violation detected
+[2026-05-28_19-16-21] Unauthorized person detected
+[2026-05-28_19-16-21] PPE violation detected
+[2026-05-28_19-16-21] Unauthorized person detected
+[2026-05-28_19-16-21] PPE violation detected
+[2026-05-28_19-16-21] Unauthorized person detected
+[2026-05-28_19-16-21] PPE violation detected
+[2026-05-28_19-16-21] Unauthorized person detected
+[2026-05-28_19-16-21] PPE violation detected
+[2026-05-28_19-16-21] Unauthorized person detected
+[2026-05-28_19-16-21] PPE violation detected
+[2026-05-28_19-16-21] Unauthorized person detected
+[2026-05-28_19-16-21] PPE violation detected
+[2026-05-28_19-16-21] Unauthorized person detected
+[2026-05-28_19-16-21] PPE violation detected
+[2026-05-28_19-16-22] Unauthorized person detected
+[2026-05-28_19-16-22] PPE violation detected
+[2026-05-28_19-16-33] PPE violation detected
+[2026-05-28_19-16-34] PPE violation detected
+[2026-05-28_19-16-34] PPE violation detected
+[2026-05-28_19-16-34] PPE violation detected
+[2026-05-28_19-16-34] PPE violation detected
+[2026-05-28_19-16-34] PPE violation detected
+[2026-05-28_19-16-34] PPE violation detected
+[2026-05-28_19-16-35] PPE violation detected
+[2026-05-28_19-16-35] PPE violation detected
+[2026-05-28_19-16-35] PPE violation detected
+[2026-05-28_19-16-35] PPE violation detected
+[2026-05-28_19-16-35] PPE violation detected
+[2026-05-28_19-16-35] PPE violation detected
+[2026-05-28_19-16-35] PPE violation detected
+[2026-05-28_19-16-35] PPE violation detected
+[2026-05-28_19-16-36] PPE violation detected
+[2026-05-28_19-16-36] PPE violation detected
+[2026-05-28_19-16-36] PPE violation detected
+[2026-05-28_19-16-36] PPE violation detected
+[2026-05-28_19-16-36] PPE violation detected
+[2026-05-28_19-16-36] PPE violation detected
+[2026-05-28_19-16-36] PPE violation detected
+[2026-05-28_19-16-37] PPE violation detected
+[2026-05-28_19-16-37] PPE violation detected
+[2026-05-28_19-16-37] PPE violation detected
+[2026-05-28_19-16-37] PPE violation detected
+[2026-05-28_19-16-37] PPE violation detected
+[2026-05-28_19-16-37] PPE violation detected
+[2026-05-28_19-16-37] PPE violation detected
+[2026-05-28_19-16-37] PPE violation detected
+[2026-05-28_19-16-40] PPE violation detected
+[2026-05-28_19-16-41] PPE violation detected
+[2026-05-28_19-16-41] PPE violation detected
+[2026-05-28_19-16-41] PPE violation detected
+[2026-05-28_19-16-41] PPE violation detected
+[2026-05-28_19-16-41] PPE violation detected
+[2026-05-28_19-16-41] PPE violation detected
+[2026-05-28_19-16-41] PPE violation detected
+[2026-05-28_19-16-41] PPE violation detected
+[2026-05-28_19-16-42] PPE violation detected
+[2026-05-28_19-16-42] PPE violation detected
+[2026-05-28_19-16-42] PPE violation detected
+[2026-05-28_19-16-42] PPE violation detected
+[2026-05-28_19-16-42] PPE violation detected
+[2026-05-28_19-16-42] PPE violation detected
+[2026-05-28_19-16-43] PPE violation detected
+[2026-05-28_19-16-43] PPE violation detected
+[2026-05-28_19-16-43] PPE violation detected
+[2026-05-28_19-16-43] PPE violation detected
+[2026-05-28_19-16-43] PPE violation detected
+[2026-05-28_19-16-43] PPE violation detected
+[2026-05-28_19-16-43] PPE violation detected
+[2026-05-28_19-16-43] PPE violation detected
+[2026-05-28_19-16-44] PPE violation detected
+[2026-05-28_19-16-44] PPE violation detected
+[2026-05-28_19-16-44] PPE violation detected
+[2026-05-28_19-16-44] PPE violation detected
+[2026-05-28_19-16-44] PPE violation detected
+[2026-05-28_19-16-44] PPE violation detected
+[2026-05-28_19-16-44] PPE violation detected
+[2026-05-28_19-16-46] PPE violation detected
+[2026-05-28_19-16-47] PPE violation detected
+[2026-05-28_19-16-47] PPE violation detected
+[2026-05-28_19-16-47] PPE violation detected
+[2026-05-28_19-16-47] PPE violation detected
+[2026-05-28_19-16-47] PPE violation detected
+[2026-05-28_19-16-47] PPE violation detected
+[2026-05-28_19-16-47] PPE violation detected
+[2026-05-28_19-16-48] PPE violation detected
+[2026-05-28_19-16-48] PPE violation detected
+[2026-05-28_19-16-48] PPE violation detected
+[2026-05-28_19-16-48] PPE violation detected
+[2026-05-28_19-16-48] PPE violation detected
+[2026-05-28_19-16-48] PPE violation detected
+[2026-05-28_19-16-48] PPE violation detected
+[2026-05-28_19-16-48] PPE violation detected
+[2026-05-28_19-16-49] PPE violation detected
+[2026-05-28_19-16-49] PPE violation detected
+[2026-05-28_19-16-49] PPE violation detected
+[2026-05-28_19-16-49] PPE violation detected
+[2026-05-28_19-16-49] PPE violation detected
+[2026-05-28_19-16-49] PPE violation detected
+[2026-05-28_19-16-49] PPE violation detected
+[2026-05-28_19-16-50] PPE violation detected
+[2026-05-28_19-16-50] PPE violation detected
+[2026-05-28_19-16-50] PPE violation detected
+[2026-05-28_19-16-50] PPE violation detected
+[2026-05-28_19-16-50] PPE violation detected
+[2026-05-28_19-16-50] PPE violation detected
+[2026-05-28_19-16-50] PPE violation detected
+[2026-05-28_19-16-52] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-53] PPE violation detected
+[2026-05-28_19-16-54] PPE violation detected
+[2026-05-28_19-16-54] PPE violation detected
+[2026-05-28_19-16-54] PPE violation detected
+[2026-05-28_19-16-54] PPE violation detected
+[2026-05-28_19-16-54] PPE violation detected
+[2026-05-28_19-16-54] PPE violation detected
+[2026-05-28_19-16-54] PPE violation detected
+[2026-05-28_19-16-55] PPE violation detected
+[2026-05-28_19-16-55] PPE violation detected
+[2026-05-28_19-16-55] PPE violation detected
+[2026-05-28_19-16-55] PPE violation detected
+[2026-05-28_19-16-55] PPE violation detected
+[2026-05-28_19-16-55] PPE violation detected
+[2026-05-28_19-16-55] PPE violation detected
+[2026-05-28_19-16-55] PPE violation detected
+[2026-05-28_19-16-56] PPE violation detected
+[2026-05-28_19-16-56] PPE violation detected
+[2026-05-28_19-16-56] PPE violation detected
+[2026-05-28_19-16-56] PPE violation detected
+[2026-05-28_19-16-56] PPE violation detected
+[2026-05-28_19-16-58] PPE violation detected
+[2026-05-28_19-16-58] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-16-59] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-00] PPE violation detected
+[2026-05-28_19-17-01] PPE violation detected
+[2026-05-28_19-17-01] PPE violation detected
+[2026-05-28_19-17-01] PPE violation detected
+[2026-05-28_19-17-01] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-03] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-04] PPE violation detected
+[2026-05-28_19-17-05] PPE violation detected
+[2026-05-28_19-17-05] PPE violation detected
+[2026-05-28_19-17-05] PPE violation detected
+[2026-05-28_19-17-05] PPE violation detected
+[2026-05-28_19-17-05] PPE violation detected
+[2026-05-28_19-17-05] PPE violation detected
+[2026-05-28_19-17-05] PPE violation detected
+[2026-05-28_19-17-05] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-07] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-08] PPE violation detected
+[2026-05-28_19-17-09] PPE violation detected
+[2026-05-28_19-17-09] PPE violation detected
+[2026-05-28_19-17-09] PPE violation detected
+[2026-05-28_19-17-09] PPE violation detected
+[2026-05-28_19-17-09] PPE violation detected
+[2026-05-28_19-17-09] PPE violation detected
+[2026-05-28_19-17-09] PPE violation detected
+[2026-05-28_19-17-09] PPE violation detected
+[2026-05-28_19-17-11] PPE violation detected
+[2026-05-28_19-17-11] PPE violation detected
+[2026-05-28_19-17-11] PPE violation detected
+[2026-05-28_19-17-11] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-12] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-13] PPE violation detected
+[2026-05-28_19-17-14] PPE violation detected
+[2026-05-28_19-17-14] PPE violation detected
+[2026-05-28_19-17-14] PPE violation detected
+[2026-05-28_19-17-15] PPE violation detected
+[2026-05-28_19-17-15] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-16] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-17] PPE violation detected
+[2026-05-28_19-17-18] PPE violation detected
+[2026-05-28_19-17-18] PPE violation detected
+[2026-05-28_19-17-18] PPE violation detected
+[2026-05-28_19-17-19] PPE violation detected
+[2026-05-28_19-17-19] PPE violation detected
+[2026-05-28_19-17-19] PPE violation detected
+[2026-05-28_19-17-19] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-20] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-21] PPE violation detected
+[2026-05-28_19-17-23] PPE violation detected
+[2026-05-28_19-17-23] PPE violation detected
+[2026-05-28_19-17-23] PPE violation detected
+[2026-05-28_19-17-23] PPE violation detected
+[2026-05-28_19-17-23] PPE violation detected
+[2026-05-28_19-17-23] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-24] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-25] PPE violation detected
+[2026-05-28_19-17-27] PPE violation detected
+[2026-05-28_19-17-27] PPE violation detected
+[2026-05-28_19-17-27] PPE violation detected
+[2026-05-28_19-17-27] PPE violation detected
+[2026-05-28_19-17-27] PPE violation detected
+[2026-05-28_19-17-27] PPE violation detected
+[2026-05-28_19-17-27] PPE violation detected
+[2026-05-28_19-17-27] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-28] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-29] PPE violation detected
+[2026-05-28_19-17-31] PPE violation detected
+[2026-05-28_19-17-31] PPE violation detected
+[2026-05-28_19-17-31] PPE violation detected
+[2026-05-28_19-17-31] PPE violation detected
+[2026-05-28_19-17-31] PPE violation detected
+[2026-05-28_19-17-31] PPE violation detected
+[2026-05-28_19-17-31] PPE violation detected
+[2026-05-28_19-17-31] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-32] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-33] PPE violation detected
+[2026-05-28_19-17-35] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-36] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-37] PPE violation detected
+[2026-05-28_19-17-38] PPE violation detected
+[2026-05-28_19-17-38] PPE violation detected
+[2026-05-28_19-17-38] PPE violation detected
+[2026-05-28_19-17-38] PPE violation detected
+[2026-05-28_19-17-38] PPE violation detected
+[2026-05-28_19-17-38] PPE violation detected
+[2026-05-28_19-17-39] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-40] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-41] PPE violation detected
+[2026-05-28_19-17-42] PPE violation detected
+[2026-05-28_19-17-42] PPE violation detected
+[2026-05-28_19-17-42] PPE violation detected
+[2026-05-28_19-17-42] PPE violation detected
+[2026-05-28_19-17-42] PPE violation detected
+[2026-05-28_19-17-42] PPE violation detected
+[2026-05-28_19-17-42] PPE violation detected
+[2026-05-28_19-17-42] PPE violation detected
+[2026-05-28_19-17-44] PPE violation detected
+[2026-05-28_19-17-44] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-45] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-46] PPE violation detected
+[2026-05-28_19-17-47] PPE violation detected
+[2026-05-28_19-17-47] PPE violation detected
+[2026-05-28_19-17-47] PPE violation detected
+[2026-05-28_19-17-47] PPE violation detected
+[2026-05-28_19-17-47] PPE violation detected
+[2026-05-28_19-17-47] PPE violation detected
+[2026-05-28_19-17-48] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-49] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-50] PPE violation detected
+[2026-05-28_19-17-51] PPE violation detected
+[2026-05-28_19-17-51] PPE violation detected
+[2026-05-28_19-17-51] PPE violation detected
+[2026-05-28_19-17-51] PPE violation detected
+[2026-05-28_19-17-51] PPE violation detected
+[2026-05-28_19-17-51] PPE violation detected
+[2026-05-28_19-17-51] PPE violation detected
+[2026-05-28_19-17-53] PPE violation detected
+[2026-05-28_19-17-53] PPE violation detected
+[2026-05-28_19-17-53] PPE violation detected
+[2026-05-28_19-17-53] PPE violation detected
+[2026-05-28_19-17-53] PPE violation detected
+[2026-05-28_19-17-53] PPE violation detected
+[2026-05-28_19-17-53] PPE violation detected
+[2026-05-28_19-17-53] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-54] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-55] PPE violation detected
+[2026-05-28_19-17-56] PPE violation detected
+[2026-05-28_19-17-56] PPE violation detected
+[2026-05-28_19-17-57] PPE violation detected
+[2026-05-28_19-17-58] PPE violation detected
+[2026-05-28_19-17-58] PPE violation detected
+[2026-05-28_19-17-58] PPE violation detected
+[2026-05-28_19-17-58] PPE violation detected
+[2026-05-28_19-17-58] PPE violation detected
+[2026-05-28_19-17-58] PPE violation detected
+[2026-05-28_19-17-59] PPE violation detected
+[2026-05-28_19-17-59] PPE violation detected
+[2026-05-28_19-17-59] PPE violation detected
+[2026-05-28_19-17-59] PPE violation detected
+[2026-05-28_19-17-59] PPE violation detected
+[2026-05-28_19-17-59] PPE violation detected
+[2026-05-28_19-17-59] PPE violation detected
+[2026-05-28_19-17-59] PPE violation detected
+[2026-05-28_19-18-00] PPE violation detected
+[2026-05-28_19-18-00] PPE violation detected
+[2026-05-28_19-18-00] PPE violation detected
+[2026-05-28_19-18-00] PPE violation detected
+[2026-05-28_19-18-00] PPE violation detected
+[2026-05-28_19-18-00] PPE violation detected
+[2026-05-28_19-18-00] PPE violation detected
+[2026-05-28_19-18-00] PPE violation detected
+[2026-05-28_19-18-01] PPE violation detected
+[2026-05-28_19-18-01] PPE violation detected
+[2026-05-28_19-18-01] PPE violation detected
+[2026-05-28_19-18-01] PPE violation detected
+[2026-05-28_19-18-01] PPE violation detected
+[2026-05-28_19-18-01] PPE violation detected
+[2026-05-28_19-18-01] PPE violation detected
+[2026-05-28_19-18-03] PPE violation detected
+[2026-05-28_19-18-03] PPE violation detected
+[2026-05-28_19-18-03] PPE violation detected
+[2026-05-28_19-18-04] PPE violation detected
+[2026-05-28_19-18-04] PPE violation detected
+[2026-05-28_19-18-04] PPE violation detected
+[2026-05-28_19-18-04] PPE violation detected
+[2026-05-28_19-18-04] PPE violation detected
+[2026-05-28_19-18-04] PPE violation detected
+[2026-05-28_19-21-52] Unauthorized person detected
+[2026-05-28_19-22-08] PPE violation detected
+[2026-05-28_19-22-25] PPE violation detected
+[2026-05-28_19-22-40] Unauthorized person detected
+[2026-05-28_19-22-55] PPE violation detected
+[2026-05-28_19-24-59] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-05-28_19-25-31] Unauthorized person detected
+[2026-05-28_19-25-34] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-05-28_19-25-46] PPE violation detected
+[2026-05-28_19-26-01] PPE violation detected
+[2026-05-28_19-26-16] PPE violation detected
+[2026-05-28_19-26-31] PPE violation detected
+[2026-05-28_19-26-48] PPE violation detected
+[2026-05-28_19-27-03] PPE violation detected
+[2026-05-28_19-27-18] PPE violation detected
+[2026-05-28_19-27-33] Unauthorized person detected
+[2026-05-28_19-27-49] PPE violation detected
+[2026-05-28_19-29-05] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-05-28_19-29-47] Unauthorized person detected
+[2026-05-28_19-29-49] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-05-28_19-30-05] PPE violation detected
+[2026-05-28_19-30-23] PPE violation detected
+[2026-05-31_21-07-29] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-05-31_21-08-17] Unauthorized person detected
+[2026-05-31_21-08-19] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-05-31_21-08-39] Unauthorized person detected
+[2026-05-31_21-08-41] PPE violation detected
+[2026-05-31_21-09-00] PPE violation detected
+[2026-05-31_21-09-18] PPE violation detected
+[2026-05-31_21-09-36] PPE violation detected
+[2026-05-31_21-09-55] PPE violation detected
+[2026-05-31_21-10-13] PPE violation detected
+[2026-05-31_21-10-52] PPE violation detected
+[2026-06-16_09-18-29] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-16_09-19-03] Unauthorized person detected
+[2026-06-16_09-19-05] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-16_09-19-19] Unauthorized person detected
+[2026-06-16_09-19-34] PPE violation detected
+[2026-06-16_09-19-49] PPE violation detected
+[2026-06-16_09-20-53] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-16_09-21-29] Unauthorized person detected
+[2026-06-16_09-21-31] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-16_09-21-44] PPE violation detected
+[2026-06-16_09-24-14] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-16_09-24-56] Unauthorized person detected
+[2026-06-16_09-24-58] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-16_09-25-11] PPE violation detected
+[2026-06-16_09-25-26] PPE violation detected
+[2026-06-16_09-25-41] PPE violation detected
+[2026-06-16_09-25-56] PPE violation detected
+[2026-06-16_09-26-11] PPE violation detected
+[2026-06-16_09-26-26] PPE violation detected
+[2026-06-16_09-26-42] PPE violation detected
+[2026-06-16_09-26-58] PPE violation detected
+[2026-06-16_09-27-13] PPE violation detected
+[2026-06-16_09-27-33] PPE violation detected
+[2026-06-16_09-27-34] PPE violation detected
+[2026-06-20_12-15-03] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_12-15-31] Unauthorized person detected
+[2026-06-20_12-15-33] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_12-16-05] Unauthorized person detected
+[2026-06-20_12-17-15] Unauthorized person detected
+[2026-06-20_12-17-15] PPE violation detected
+[2026-06-20_12-18-12] PPE violation detected
+[2026-06-20_12-19-11] Unauthorized person detected
+[2026-06-20_12-20-08] PPE violation detected
+[2026-06-20_12-21-07] PPE violation detected
+[2026-06-20_12-21-33] PPE violation detected
+[2026-06-20_12-28-20] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_12-28-47] Unauthorized person detected
+[2026-06-20_12-28-47] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_12-29-54] PPE violation detected
+[2026-06-20_12-30-06] PPE violation detected
+[2026-06-20_12-31-03] PPE violation detected
+[2026-06-20_12-31-41] PPE violation detected
+[2026-06-20_12-32-38] PPE violation detected
+[2026-06-20_12-32-53] PPE violation detected
+[2026-06-20_12-33-51] PPE violation detected
+[2026-06-20_12-34-48] Unauthorized person detected
+[2026-06-20_12-34-55] Unauthorized person detected
+[2026-06-20_12-35-52] PPE violation detected
+[2026-06-20_12-36-49] PPE violation detected
+[2026-06-20_12-37-48] PPE violation detected
+[2026-06-20_15-01-29] Unauthorized person detected
+[2026-06-20_15-01-32] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_15-01-44] Unauthorized person detected
+[2026-06-20_15-01-59] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-02-15] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-02-30] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-02-45] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_15-02-45] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-03-00] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-03-17] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-03-32] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-03-49] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-04-05] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-04-20] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-04-36] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-04-52] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-07-13] Unauthorized person detected
+[2026-06-20_15-49-19] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_15-49-41] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_15-49-46] Unauthorized person detected
+[2026-06-20_15-49-47] Unauthorized person detected
+[2026-06-20_15-50-14] Unauthorized person detected
+[2026-06-20_15-50-26] Unauthorized person detected
+[2026-06-20_15-50-42] Unauthorized person detected
+[2026-06-20_15-50-51] Unauthorized person detected
+[2026-06-20_15-50-59] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-51-09] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-51-25] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-51-27] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-51-43] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-51-49] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-52-03] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-52-05] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-52-20] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-52-20] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-52-35] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-52-42] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-52-52] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-54-52] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_15-55-11] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_15-55-15] Unauthorized person detected
+[2026-06-20_15-55-15] Unauthorized person detected
+[2026-06-20_15-55-34] Unauthorized person detected
+[2026-06-20_15-55-40] Unauthorized person detected
+[2026-06-20_15-55-58] Unauthorized person detected
+[2026-06-20_15-56-05] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-56-14] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-56-24] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-56-32] Unauthorized person detected
+[2026-06-20_15-56-40] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-56-47] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-56-55] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-57-02] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-57-19] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-57-19] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-57-34] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-57-47] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-57-57] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-58-03] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-58-12] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-58-19] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-58-28] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-58-34] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-58-44] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-58-51] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_15-59-01] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-59-07] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-59-16] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_15-59-22] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-04-33] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_16-04-51] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_16-04-52] Unauthorized person detected
+[2026-06-20_16-05-09] Unauthorized person detected
+[2026-06-20_16-05-24] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-05-40] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-05-56] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-06-11] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-06-27] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-06-42] Unauthorized person detected
+[2026-06-20_16-06-58] Unauthorized person detected
+[2026-06-20_16-07-13] Unauthorized person detected
+[2026-06-20_16-07-29] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-07-44] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-07-59] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-08-14] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-08-29] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-08-44] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-08-59] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-09-14] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-09-30] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_16-09-45] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-10-00] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-14-22] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_16-14-45] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_16-14-49] Unauthorized person detected
+[2026-06-20_16-15-05] Unauthorized person detected
+[2026-06-20_16-15-21] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-15-36] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-15-51] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-16-06] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-16-44] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_16-17-05] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_16-17-08] Unauthorized person detected
+[2026-06-20_16-21-24] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_16-21-45] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_16-21-49] Unauthorized person detected
+[2026-06-20_16-22-05] Unauthorized person detected
+[2026-06-20_16-22-20] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-22-35] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-22-51] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-23-06] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-23-21] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-23-36] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-23-52] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_16-24-08] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_19-38-23] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_19-38-56] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_19-38-58] Unauthorized person detected
+[2026-06-20_19-39-27] Unauthorized person detected
+[2026-06-20_19-39-45] Unauthorized person detected
+[2026-06-20_19-40-01] Unauthorized person detected
+[2026-06-20_19-40-16] Unauthorized person detected
+[2026-06-20_19-40-33] PPE violation: Missing helmet, boots, vests, gloves
+[2026-06-20_19-40-48] Unauthorized person detected
+[2026-06-20_19-41-05] Unauthorized person detected
+[2026-06-20_19-41-22] Unauthorized person detected
+[2026-06-20_19-41-37] Unauthorized person detected
+[2026-06-20_19-41-52] Unauthorized person detected
+[2026-06-20_19-42-07] Unauthorized person detected
+[2026-06-20_19-42-23] Unauthorized person detected
+[2026-06-20_19-43-24] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_19-43-33] Unauthorized person detected
+[2026-06-20_19-51-36] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_19-52-04] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_19-52-18] Unauthorized person detected
+[2026-06-20_19-52-34] Unauthorized person detected
+[2026-06-20_19-52-50] Unauthorized person detected
+[2026-06-20_19-53-06] Unauthorized person detected
+[2026-06-20_19-53-21] Unauthorized person detected
+[2026-06-20_19-53-37] Unauthorized person detected
+[2026-06-20_19-53-52] Unauthorized person detected
+[2026-06-20_19-54-08] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_19-54-24] PPE violation: Missing helmet, boots, vests, gloves
+[2026-06-20_19-54-40] Unauthorized person detected
+[2026-06-20_19-54-57] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_19-55-12] Unauthorized person detected
+[2026-06-20_19-55-29] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_19-55-44] Unauthorized person detected
+[2026-06-20_19-56-00] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_19-56-16] Unauthorized person detected
+[2026-06-20_19-56-33] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_19-56-48] PPE violation: Missing helmet, boots, vests, gloves
+[2026-06-20_19-57-03] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_19-57-20] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_19-57-36] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_19-57-51] Unauthorized person detected
+[2026-06-20_19-58-06] Unauthorized person detected
+[2026-06-20_19-58-23] Unauthorized person detected
+[2026-06-20_19-58-38] Unauthorized person detected
+[2026-06-20_19-58-54] Unauthorized person detected
+[2026-06-20_19-59-09] PPE violation: Missing helmet, boots, vests, gloves
+[2026-06-20_19-59-25] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-00-29] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-00-56] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-01-10] Unauthorized person detected
+[2026-06-20_20-01-25] Unauthorized person detected
+[2026-06-20_20-01-42] Unauthorized person detected
+[2026-06-20_20-01-57] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-02-12] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_20-02-27] Unauthorized person detected
+[2026-06-20_20-02-43] Unauthorized person detected
+[2026-06-20_20-02-58] Unauthorized person detected
+[2026-06-20_20-03-13] Unauthorized person detected
+[2026-06-20_20-03-28] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_20-03-43] Unauthorized person detected
+[2026-06-20_20-03-59] Unauthorized person detected
+[2026-06-20_20-04-15] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-04-30] PPE violation: Missing helmet, boots, vests
+[2026-06-20_20-04-45] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-05-00] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-06-57] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-07-23] Unauthorized person detected
+[2026-06-20_20-07-25] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-07-41] Unauthorized person detected
+[2026-06-20_20-07-59] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-08-15] Unauthorized person detected
+[2026-06-20_20-08-31] Unauthorized person detected
+[2026-06-20_20-08-49] PPE violation: Missing helmet, boots, vests
+[2026-06-20_20-09-04] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-09-19] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-09-34] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_20-09-49] PPE violation: Missing helmet, boots, vests
+[2026-06-20_20-10-05] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-10-20] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_20-10-36] PPE violation: Missing helmet, boots, vests, goggles
+[2026-06-20_20-10-51] PPE violation: Missing helmet, boots, vests, gloves
+[2026-06-20_20-11-07] PPE violation: Missing helmet, boots, vests, gloves, goggles
+[2026-06-20_20-11-24] PPE violation: Missing helmet, boots, vests
+[2026-06-20_20-11-41] Unauthorized person detected
+[2026-06-20_20-12-45] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-13-05] Unauthorized person detected
+[2026-06-20_20-13-06] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-13-20] Unauthorized person detected
+[2026-06-20_20-13-35] Unauthorized person detected
+[2026-06-20_20-13-50] Unauthorized person detected
+[2026-06-20_20-14-07] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-14-24] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-14-40] Unauthorized person detected
+[2026-06-20_20-14-55] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-15-10] Unauthorized person detected
+[2026-06-20_20-15-26] PPE violation: Missing helmet, boots, vest
+[2026-06-20_20-15-41] PPE violation: Missing helmet, boots, vest
+[2026-06-20_20-15-56] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-16-11] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-16-49] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-17-08] Unauthorized person detected
+[2026-06-20_20-17-10] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-17-25] Unauthorized person detected
+[2026-06-20_20-17-42] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-17-58] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-18-13] Unauthorized person detected
+[2026-06-20_20-18-29] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-18-45] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-19-00] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-19-16] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-19-32] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-19-47] Unauthorized person detected
+[2026-06-20_20-20-02] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-20-18] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-20-34] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-20-49] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-21-05] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-21-21] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-21-37] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-21-52] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-22-28] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-22-45] Unauthorized person detected
+[2026-06-20_20-22-47] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-23-03] PPE violation: Missing helmet, boots, vest
+[2026-06-20_20-23-19] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-23-35] PPE violation: Missing helmet, boots, vest
+[2026-06-20_20-23-51] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-24-06] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-24-21] Unauthorized person detected
+[2026-06-20_20-24-37] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-24-52] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-25-07] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-25-22] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-25-37] Unauthorized person detected
+[2026-06-20_20-27-23] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-27-41] Unauthorized person detected
+[2026-06-20_20-27-42] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-47-15] Unauthorized person detected
+[2026-06-20_20-47-15] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-47-31] Unauthorized person detected
+[2026-06-20_20-47-46] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-48-01] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-48-18] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-48-33] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-48-48] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-49-04] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-49-19] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-49-34] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-49-49] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-50-04] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-50-20] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-50-36] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-50-52] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-51-08] Unauthorized person detected
+[2026-06-20_20-51-23] Unauthorized person detected
+[2026-06-20_20-51-38] PPE violation: Missing helmet, boots, vest
+[2026-06-20_20-51-53] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-52-08] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-52-24] Unauthorized person detected
+[2026-06-20_20-52-40] Unauthorized person detected
+[2026-06-20_20-52-57] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-53-12] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-54-04] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_20-54-34] Unauthorized person detected
+[2026-06-20_20-54-51] Unauthorized person detected
+[2026-06-20_20-55-07] PPE violation: Missing helmet, boots, vest
+[2026-06-20_20-55-22] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-55-37] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-55-53] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-56-09] Unauthorized person detected
+[2026-06-20_20-56-25] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_20-56-41] Unauthorized person detected
+[2026-06-20_20-56-56] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-57-12] PPE violation: Missing helmet, boots, vest
+[2026-06-20_20-57-27] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-57-42] Unauthorized person detected
+[2026-06-20_20-57-58] Unauthorized person detected
+[2026-06-20_20-58-14] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-58-29] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-58-45] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_20-59-00] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_20-59-15] Unauthorized person detected
+[2026-06-20_20-59-31] Unauthorized person detected
+[2026-06-20_20-59-46] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_21-00-01] Unauthorized person detected
+[2026-06-20_21-03-42] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_21-05-02] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_21-05-47] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_21-05-50] Unauthorized person detected
+[2026-06-20_21-06-05] Unauthorized person detected
+[2026-06-20_21-06-20] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-06-37] Unauthorized person detected
+[2026-06-20_21-06-53] Unauthorized person detected
+[2026-06-20_21-07-08] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-07-23] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-07-38] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-07-53] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-08-08] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-08-23] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-08-38] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-08-54] Unauthorized person detected
+[2026-06-20_21-09-10] Unauthorized person detected
+[2026-06-20_21-09-25] Unauthorized person detected
+[2026-06-20_21-09-40] Unauthorized person detected
+[2026-06-20_21-09-56] Unauthorized person detected
+[2026-06-20_21-10-11] Unauthorized person detected
+[2026-06-20_21-10-27] Unauthorized person detected
+[2026-06-20_21-10-42] Unauthorized person detected
+[2026-06-20_21-10-57] Unauthorized person detected
+[2026-06-20_21-11-13] Unauthorized person detected
+[2026-06-20_21-11-28] Unauthorized person detected
+[2026-06-20_21-11-43] Unauthorized person detected
+[2026-06-20_21-11-58] Unauthorized person detected
+[2026-06-20_21-12-13] Unauthorized person detected
+[2026-06-20_21-12-28] Unauthorized person detected
+[2026-06-20_21-12-43] Unauthorized person detected
+[2026-06-20_21-12-55] Unauthorized person detected
+[2026-06-20_21-13-10] Unauthorized person detected
+[2026-06-20_21-13-26] Unauthorized person detected
+[2026-06-20_21-13-41] Unauthorized person detected
+[2026-06-20_21-13-56] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_21-13-56] Unauthorized person detected
+[2026-06-20_21-14-11] Unauthorized person detected
+[2026-06-20_21-14-26] Unauthorized person detected
+[2026-06-20_21-14-41] Unauthorized person detected
+[2026-06-20_21-14-57] Unauthorized person detected
+[2026-06-20_21-15-12] Unauthorized person detected
+[2026-06-20_21-15-28] Unauthorized person detected
+[2026-06-20_21-15-43] Unauthorized person detected
+[2026-06-20_21-15-58] Unauthorized person detected
+[2026-06-20_21-16-13] Unauthorized person detected
+[2026-06-20_21-16-28] Unauthorized person detected
+[2026-06-20_21-16-43] Unauthorized person detected
+[2026-06-20_21-16-58] Unauthorized person detected
+[2026-06-20_21-17-13] Unauthorized person detected
+[2026-06-20_21-17-29] Unauthorized person detected
+[2026-06-20_21-17-44] Unauthorized person detected
+[2026-06-20_21-17-59] Unauthorized person detected
+[2026-06-20_21-18-14] Unauthorized person detected
+[2026-06-20_21-18-29] Unauthorized person detected
+[2026-06-20_21-18-44] Unauthorized person detected
+[2026-06-20_21-18-59] Unauthorized person detected
+[2026-06-20_21-19-14] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-19-29] Unauthorized person detected
+[2026-06-20_21-19-45] Unauthorized person detected
+[2026-06-20_21-20-00] Unauthorized person detected
+[2026-06-20_21-20-15] Unauthorized person detected
+[2026-06-20_21-20-30] Unauthorized person detected
+[2026-06-20_21-20-46] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-21-01] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-21-16] Unauthorized person detected
+[2026-06-20_21-21-31] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-21-46] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-22-01] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-22-17] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-22-32] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-22-48] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-23-03] Unauthorized person detected
+[2026-06-20_21-23-19] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-23-34] Unauthorized person detected
+[2026-06-20_21-23-50] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-24-05] Unauthorized person detected
+[2026-06-20_21-24-20] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-24-35] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-24-50] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-25-05] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-25-20] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-25-36] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-25-51] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-26-07] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-26-22] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-26-37] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-26-52] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-27-07] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-27-22] Unauthorized person detected
+[2026-06-20_21-27-37] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-27-52] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-28-07] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-28-22] Unauthorized person detected
+[2026-06-20_21-28-38] Unauthorized person detected
+[2026-06-20_21-28-53] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-29-08] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-29-23] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-29-38] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-29-54] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-30-10] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-30-26] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-30-41] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-30-56] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-31-11] Unauthorized person detected
+[2026-06-20_21-31-26] Unauthorized person detected
+[2026-06-20_21-31-41] Unauthorized person detected
+[2026-06-20_21-31-56] Unauthorized person detected
+[2026-06-20_21-32-11] Unauthorized person detected
+[2026-06-20_21-32-26] Unauthorized person detected
+[2026-06-20_21-32-41] Unauthorized person detected
+[2026-06-20_21-32-56] Unauthorized person detected
+[2026-06-20_21-33-12] Unauthorized person detected
+[2026-06-20_21-33-27] Unauthorized person detected
+[2026-06-20_21-33-42] Unauthorized person detected
+[2026-06-20_21-33-58] Unauthorized person detected
+[2026-06-20_21-34-14] Unauthorized person detected
+[2026-06-20_21-34-29] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_21-34-45] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_21-35-00] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-35-15] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-35-31] Unauthorized person detected
+[2026-06-20_21-35-46] Unauthorized person detected
+[2026-06-20_21-36-01] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_21-36-16] Unauthorized person detected
+[2026-06-20_21-36-31] PPE violation: Missing helmet, boots, vest, goggles
+[2026-06-20_21-36-46] Unauthorized person detected
+[2026-06-20_21-37-01] Unauthorized person detected
+[2026-06-20_21-37-16] Unauthorized person detected
+[2026-06-20_21-37-32] Unauthorized person detected
+[2026-06-20_21-37-47] Unauthorized person detected
+[2026-06-20_21-38-02] Unauthorized person detected
+[2026-06-20_21-38-17] Unauthorized person detected
+[2026-06-20_21-38-32] Unauthorized person detected
+[2026-06-20_21-38-47] Unauthorized person detected
+[2026-06-20_21-39-02] Unauthorized person detected
+[2026-06-20_21-39-17] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-39-33] Unauthorized person detected
+[2026-06-20_21-39-48] Unauthorized person detected
+[2026-06-20_21-40-03] Unauthorized person detected
+[2026-06-20_21-40-18] Unauthorized person detected
+[2026-06-20_21-40-33] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-40-48] Unauthorized person detected
+[2026-06-20_21-41-03] Unauthorized person detected
+[2026-06-20_21-41-18] Unauthorized person detected
+[2026-06-20_21-41-33] Unauthorized person detected
+[2026-06-20_21-41-49] Unauthorized person detected
+[2026-06-20_21-42-04] PPE violation: Missing helmet, boots, vest, gloves, goggles
+[2026-06-20_21-42-20] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-42-35] Unauthorized person detected
+[2026-06-20_21-42-50] Unauthorized person detected
+[2026-06-20_21-43-05] Unauthorized person detected
+[2026-06-20_21-43-20] Unauthorized person detected
+[2026-06-20_21-43-36] PPE violation: Missing helmet, boots, vest, gloves
+[2026-06-20_21-43-42] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_21-43-51] Unauthorized person detected
+[2026-06-20_21-44-07] Unauthorized person detected
+[2026-06-20_21-44-52] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-20_21-44-55] Unauthorized person detected in monitored area
+[2026-06-20_21-45-12] Unauthorized person detected in monitored area
+[2026-06-20_21-45-27] PPE violation detected
+[2026-06-20_21-45-42] PPE violation detected
+[2026-06-20_21-45-57] Unauthorized person detected in monitored area
+[2026-06-20_21-46-12] Unauthorized person detected in monitored area
+[2026-06-20_21-46-27] Unauthorized person detected in monitored area
+[2026-06-26_14-25-34] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-26_14-26-16] Unauthorized person detected in monitored area
+[2026-06-26_14-27-11] Unauthorized person detected in monitored area
+[2026-06-26_14-27-31] Unauthorized person detected in monitored area
+[2026-06-26_14-27-48] PPE violation detected
+[2026-06-26_14-28-05] PPE violation detected
+[2026-06-26_14-28-20] Unauthorized person detected in monitored area
+[2026-06-26_14-28-36] PPE violation detected
+[2026-06-26_14-28-52] PPE violation detected
+[2026-06-26_14-29-08] Unauthorized person detected in monitored area
+[2026-06-26_14-29-24] Unauthorized person detected in monitored area
+[2026-06-26_14-29-39] Unauthorized person detected in monitored area
+[2026-06-26_14-35-42] Unauthorized person detected in monitored area
+[2026-06-26_14-35-42] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-26_14-36-07] Unauthorized person detected in monitored area
+[2026-06-26_14-36-28] PPE violation detected
+[2026-06-26_14-36-44] PPE violation detected
+[2026-06-26_14-37-00] Unauthorized person detected in monitored area
+[2026-06-26_14-37-16] PPE violation detected
+[2026-06-26_14-37-32] Unauthorized person detected in monitored area
+[2026-06-26_14-37-49] PPE violation detected
+[2026-06-26_14-38-04] Unauthorized person detected in monitored area
+[2026-06-26_14-38-20] PPE violation detected
+[2026-06-26_14-38-36] PPE violation detected
+[2026-06-26_14-38-51] PPE violation detected
+[2026-06-26_14-39-08] PPE violation detected
+[2026-06-26_14-39-23] Unauthorized person detected in monitored area
+[2026-06-26_14-39-39] PPE violation detected
+[2026-06-26_14-39-55] PPE violation detected
+[2026-06-26_14-40-10] Unauthorized person detected in monitored area
+[2026-06-26_14-40-26] Unauthorized person detected in monitored area
+[2026-06-26_14-40-41] PPE violation detected
+[2026-06-26_14-40-56] Unauthorized person detected in monitored area
+[2026-06-26_14-41-11] Unauthorized person detected in monitored area
+[2026-06-26_14-41-27] PPE violation detected
+[2026-06-26_14-41-42] PPE violation detected
+[2026-06-26_14-41-58] PPE violation detected
+[2026-06-26_14-42-14] PPE violation detected
+[2026-06-26_14-42-29] PPE violation detected
+[2026-06-26_14-42-44] PPE violation detected
+[2026-06-26_14-43-00] PPE violation detected
+[2026-06-26_14-43-15] PPE violation detected
+[2026-06-26_14-43-30] PPE violation detected
+[2026-06-26_14-43-46] PPE violation detected
+[2026-06-26_14-44-01] PPE violation detected
+[2026-06-26_14-44-16] PPE violation detected
+[2026-06-26_14-44-31] PPE violation detected
+[2026-06-26_14-44-46] PPE violation detected
+[2026-06-26_14-45-01] PPE violation detected
+[2026-06-26_14-45-17] PPE violation detected
+[2026-06-26_14-45-32] PPE violation detected
+[2026-06-26_14-45-48] PPE violation detected
+[2026-06-26_14-46-03] PPE violation detected
+[2026-06-26_14-46-19] PPE violation detected
+[2026-06-26_14-46-34] PPE violation detected
+[2026-06-26_14-46-49] PPE violation detected
+[2026-06-26_14-47-04] PPE violation detected
+[2026-06-26_14-47-20] PPE violation detected
+[2026-06-26_14-47-36] PPE violation detected
+[2026-06-26_14-47-51] PPE violation detected
+[2026-06-26_14-48-06] PPE violation detected
+[2026-06-26_14-48-21] PPE violation detected
+[2026-06-26_14-48-36] PPE violation detected
+[2026-06-26_14-48-52] PPE violation detected
+[2026-06-26_14-49-07] PPE violation detected
+[2026-06-26_14-49-22] PPE violation detected
+[2026-06-26_14-49-37] PPE violation detected
+[2026-06-26_14-49-53] PPE violation detected
+[2026-06-26_14-50-08] PPE violation detected
+[2026-06-26_14-50-23] PPE violation detected
+[2026-06-26_14-50-39] PPE violation detected
+[2026-06-26_14-50-55] PPE violation detected
+[2026-06-26_14-51-10] PPE violation detected
+[2026-06-26_14-51-26] PPE violation detected
+[2026-06-26_14-51-41] PPE violation detected
+[2026-06-26_14-51-56] PPE violation detected
+[2026-06-26_14-52-11] PPE violation detected
+[2026-06-26_14-52-26] PPE violation detected
+[2026-06-26_14-52-41] PPE violation detected
+[2026-06-26_14-52-56] PPE violation detected
+[2026-06-26_14-53-11] PPE violation detected
+[2026-06-26_14-53-26] PPE violation detected
+[2026-06-26_14-53-42] PPE violation detected
+[2026-06-26_14-53-58] PPE violation detected
+[2026-06-26_14-54-13] PPE violation detected
+[2026-06-26_14-54-28] PPE violation detected
+[2026-06-26_14-54-43] PPE violation detected
+[2026-06-26_14-54-59] PPE violation detected
+[2026-06-26_14-55-15] PPE violation detected
+[2026-06-26_14-55-30] PPE violation detected
+[2026-06-26_14-55-46] PPE violation detected
+[2026-06-26_14-56-01] PPE violation detected
+[2026-06-26_14-56-16] PPE violation detected
+[2026-06-26_14-56-32] PPE violation detected
+[2026-06-26_14-56-47] PPE violation detected
+[2026-06-26_14-57-02] PPE violation detected
+[2026-06-26_14-57-17] PPE violation detected
+[2026-06-26_14-57-32] PPE violation detected
+[2026-06-26_14-57-48] PPE violation detected
+[2026-06-26_14-58-03] PPE violation detected
+[2026-06-26_14-58-19] PPE violation detected
+[2026-06-26_14-58-34] PPE violation detected
+[2026-06-26_14-58-49] Unauthorized person detected in monitored area
+[2026-06-26_14-59-04] PPE violation detected
+[2026-06-26_14-59-19] PPE violation detected
+[2026-06-26_14-59-36] Unauthorized person detected in monitored area
+[2026-06-26_14-59-52] Unauthorized person detected in monitored area
+[2026-06-26_15-00-08] PPE violation detected
+[2026-06-26_15-00-24] PPE violation detected
+[2026-06-26_15-00-39] PPE violation detected
+[2026-06-26_15-00-54] PPE violation detected
+[2026-06-26_15-01-09] PPE violation detected
+[2026-06-26_15-01-25] PPE violation detected
+[2026-06-26_15-01-40] PPE violation detected
+[2026-06-26_15-01-55] PPE violation detected
+[2026-06-26_15-02-11] PPE violation detected
+[2026-06-26_15-02-26] PPE violation detected
+[2026-06-26_15-02-41] PPE violation detected
+[2026-06-26_15-02-57] PPE violation detected
+[2026-06-26_15-03-13] PPE violation detected
+[2026-06-26_15-03-28] PPE violation detected
+[2026-06-26_15-03-43] Unauthorized person detected in monitored area
+[2026-06-26_15-03-58] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-26_15-04-00] Unauthorized person detected in monitored area
+[2026-06-26_15-04-19] PPE violation detected
+[2026-06-26_15-04-35] PPE violation detected
+[2026-06-26_15-04-53] PPE violation detected
+[2026-06-26_15-05-15] PPE violation detected
+[2026-06-26_15-05-32] PPE violation detected
+[2026-06-26_15-05-48] PPE violation detected
+[2026-06-26_15-06-04] PPE violation detected
+[2026-06-26_15-06-20] PPE violation detected
+[2026-06-26_15-06-37] PPE violation detected
+[2026-06-26_15-06-57] PPE violation detected
+[2026-06-26_15-07-12] PPE violation detected
+[2026-06-26_15-07-28] PPE violation detected
+[2026-06-26_15-07-44] PPE violation detected
+[2026-06-26_15-07-59] PPE violation detected
+[2026-06-26_15-08-16] PPE violation detected
+[2026-06-26_15-08-32] PPE violation detected
+[2026-06-26_15-08-48] PPE violation detected
+[2026-06-26_15-14-47] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-26_15-15-38] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-26_15-20-04] Unauthorized person detected in monitored area
+[2026-06-26_15-20-24] Unauthorized person detected in monitored area
+[2026-06-26_15-20-39] PPE violation detected
+[2026-06-26_15-20-55] PPE violation detected
+[2026-06-26_15-21-10] PPE violation detected
+[2026-06-26_15-21-25] PPE violation detected
+[2026-06-26_15-21-41] PPE violation detected
+[2026-06-26_15-21-56] PPE violation detected
+[2026-06-26_15-22-12] Unauthorized person detected in monitored area
+[2026-06-26_15-22-27] PPE violation detected
+[2026-06-26_15-22-42] Unauthorized person detected in monitored area
+[2026-06-26_15-22-57] Unauthorized person detected in monitored area
+[2026-06-26_15-23-13] Unauthorized person detected in monitored area
+[2026-06-26_15-23-28] Unauthorized person detected in monitored area
+[2026-06-26_15-23-44] Unauthorized person detected in monitored area
+[2026-06-26_15-23-59] PPE violation detected
+[2026-06-26_15-24-15] PPE violation detected
+[2026-06-26_15-24-31] Unauthorized person detected in monitored area
+[2026-06-26_15-24-46] PPE violation detected
+[2026-06-26_15-25-01] Unauthorized person detected in monitored area
+[2026-06-26_15-25-17] Unauthorized person detected in monitored area
+[2026-06-26_15-25-33] Unauthorized person detected in monitored area
+[2026-06-26_15-25-48] PPE violation detected
+[2026-06-26_15-26-04] PPE violation detected
+[2026-06-26_15-26-19] PPE violation detected
+[2026-06-26_15-26-34] PPE violation detected
+[2026-06-26_15-26-49] PPE violation detected
+[2026-06-26_15-27-04] PPE violation detected
+[2026-06-26_15-27-19] PPE violation detected
+[2026-06-26_15-27-35] PPE violation detected
+[2026-06-26_15-27-51] PPE violation detected
+[2026-06-26_15-28-06] PPE violation detected
+[2026-06-26_15-28-22] PPE violation detected
+[2026-06-26_15-28-38] PPE violation detected
+[2026-06-26_15-28-53] PPE violation detected
+[2026-06-26_15-29-08] Unauthorized person detected in monitored area
+[2026-06-26_15-29-24] PPE violation detected
+[2026-06-26_15-29-40] PPE violation detected
+[2026-06-26_15-29-55] PPE violation detected
+[2026-06-26_15-30-10] Unauthorized person detected in monitored area
+[2026-06-26_15-30-26] Unauthorized person detected in monitored area
+[2026-06-26_15-30-42] Unauthorized person detected in monitored area
+[2026-06-26_15-30-58] PPE violation detected
+[2026-06-26_15-31-13] PPE violation detected
+[2026-06-26_15-31-28] PPE violation detected
+[2026-06-26_15-31-44] Unauthorized person detected in monitored area
+[2026-06-26_15-31-59] Unauthorized person detected in monitored area
+[2026-06-26_15-32-15] PPE violation detected
+[2026-06-26_15-32-30] Unauthorized person detected in monitored area
+[2026-06-26_15-32-45] Unauthorized person detected in monitored area
+[2026-06-26_15-33-01] PPE violation detected
+[2026-06-26_15-33-17] PPE violation detected
+[2026-06-26_15-33-33] PPE violation detected
+[2026-06-26_15-33-48] PPE violation detected
+[2026-06-26_15-34-04] PPE violation detected
+[2026-06-26_15-34-19] PPE violation detected
+[2026-06-26_15-34-34] PPE violation detected
+[2026-06-26_15-34-50] PPE violation detected
+[2026-06-26_15-35-05] PPE violation detected
+[2026-06-26_15-35-21] PPE violation detected
+[2026-06-26_15-35-36] PPE violation detected
+[2026-06-26_15-35-51] PPE violation detected
+[2026-06-26_15-36-06] PPE violation detected
+[2026-06-26_15-36-22] PPE violation detected
+[2026-06-26_15-36-38] PPE violation detected
+[2026-06-26_15-36-54] PPE violation detected
+[2026-06-26_15-37-10] PPE violation detected
+[2026-06-26_15-37-25] PPE violation detected
+[2026-06-26_15-37-40] PPE violation detected
+[2026-06-26_15-37-55] PPE violation detected
+[2026-06-26_15-38-11] PPE violation detected
+[2026-06-26_15-38-26] PPE violation detected
+[2026-06-26_15-38-42] PPE violation detected
+[2026-06-26_15-38-57] PPE violation detected
+[2026-06-26_15-39-12] PPE violation detected
+[2026-06-26_15-39-28] PPE violation detected
+[2026-06-26_15-39-44] PPE violation detected
+[2026-06-26_15-39-59] PPE violation detected
+[2026-06-26_15-40-15] PPE violation detected
+[2026-06-26_15-40-31] PPE violation detected
+[2026-06-26_15-40-46] PPE violation detected
+[2026-06-26_15-41-02] PPE violation detected
+[2026-06-26_15-41-17] PPE violation detected
+[2026-06-26_15-41-33] PPE violation detected
+[2026-06-26_15-41-48] PPE violation detected
+[2026-06-26_15-42-03] PPE violation detected
+[2026-06-26_15-42-18] PPE violation detected
+[2026-06-26_15-42-34] PPE violation detected
+[2026-06-26_15-42-49] PPE violation detected
+[2026-06-26_15-43-04] PPE violation detected
+[2026-06-26_15-43-19] PPE violation detected
+[2026-06-26_15-43-34] PPE violation detected
+[2026-06-26_15-43-49] PPE violation detected
+[2026-06-26_15-44-05] PPE violation detected
+[2026-06-26_15-44-20] PPE violation detected
+[2026-06-26_15-44-36] PPE violation detected
+[2026-06-26_15-44-51] PPE violation detected
+[2026-06-26_15-45-07] PPE violation detected
+[2026-06-26_15-45-23] PPE violation detected
+[2026-06-26_15-45-39] PPE violation detected
+[2026-06-26_15-45-54] PPE violation detected
+[2026-06-26_15-46-10] PPE violation detected
+[2026-06-26_15-46-25] PPE violation detected
+[2026-06-26_15-46-40] PPE violation detected
+[2026-06-26_15-46-56] PPE violation detected
+[2026-06-26_15-47-11] PPE violation detected
+[2026-06-26_15-47-26] PPE violation detected
+[2026-06-26_15-47-42] PPE violation detected
+[2026-06-26_15-47-58] PPE violation detected
+[2026-06-26_15-48-14] PPE violation detected
+[2026-06-26_15-48-29] PPE violation detected
+[2026-06-26_15-48-44] PPE violation detected
+[2026-06-26_15-48-59] PPE violation detected
+[2026-06-26_15-49-44] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-26_15-59-50] Unauthorized person detected in monitored area
+[2026-06-26_16-00-09] Unauthorized person detected in monitored area
+[2026-06-26_16-00-26] Unauthorized person detected in monitored area
+[2026-06-26_16-00-41] Unauthorized person detected in monitored area
+[2026-06-26_16-00-58] Unauthorized person detected in monitored area
+[2026-06-26_16-01-13] Unauthorized person detected in monitored area
+[2026-06-26_16-01-29] Unauthorized person detected in monitored area
+[2026-06-26_16-01-45] PPE violation detected
+[2026-06-26_16-02-01] Unauthorized person detected in monitored area
+[2026-06-26_16-02-16] Unauthorized person detected in monitored area
+[2026-06-26_16-02-33] Unauthorized person detected in monitored area
+[2026-06-26_16-02-49] Unauthorized person detected in monitored area
+[2026-06-26_16-03-06] PPE violation detected
+[2026-06-26_16-03-21] PPE violation detected
+[2026-06-26_16-03-37] PPE violation detected
+[2026-06-26_16-03-55] PPE violation detected
+[2026-06-26_16-04-10] PPE violation detected
+[2026-06-26_16-04-26] Unauthorized person detected in monitored area
+[2026-06-26_16-04-43] Unauthorized person detected in monitored area
+[2026-06-26_16-05-00] Unauthorized person detected in monitored area
+[2026-06-26_16-05-15] PPE violation detected
+[2026-06-26_16-05-30] PPE violation detected
+[2026-06-26_16-05-46] Unauthorized person detected in monitored area
+[2026-06-26_16-06-02] Unauthorized person detected in monitored area
+[2026-06-26_16-06-17] Unauthorized person detected in monitored area
+[2026-06-26_16-06-34] PPE violation detected
+[2026-06-26_16-06-49] Unauthorized person detected in monitored area
+[2026-06-26_16-07-07] Unauthorized person detected in monitored area
+[2026-06-26_16-07-23] PPE violation detected
+[2026-06-26_16-07-39] Unauthorized person detected in monitored area
+[2026-06-26_16-07-55] Unauthorized person detected in monitored area
+[2026-06-26_16-08-10] Unauthorized person detected in monitored area
+[2026-06-26_16-08-27] Unauthorized person detected in monitored area
+[2026-06-26_16-08-43] Unauthorized person detected in monitored area
+[2026-06-26_16-09-00] Unauthorized person detected in monitored area
+[2026-06-26_16-09-15] PPE violation detected
+[2026-06-26_16-09-30] Unauthorized person detected in monitored area
+[2026-06-26_16-09-47] Unauthorized person detected in monitored area
+[2026-06-26_16-10-02] Unauthorized person detected in monitored area
+[2026-06-26_16-10-18] Unauthorized person detected in monitored area
+[2026-06-26_16-10-33] Unauthorized person detected in monitored area
+[2026-06-26_16-10-49] Unauthorized person detected in monitored area
+[2026-06-26_16-11-07] Unauthorized person detected in monitored area
+[2026-06-26_16-11-22] Unauthorized person detected in monitored area
+[2026-06-26_16-11-37] Unauthorized person detected in monitored area
+[2026-06-26_16-11-54] Unauthorized person detected in monitored area
+[2026-06-26_16-12-10] Unauthorized person detected in monitored area
+[2026-06-26_16-12-27] Unauthorized person detected in monitored area
+[2026-06-26_16-12-43] PPE violation detected
+[2026-06-26_16-13-00] PPE violation detected
+[2026-06-26_16-13-17] PPE violation detected
+[2026-06-26_16-13-33] Unauthorized person detected in monitored area
+[2026-06-26_16-13-48] PPE violation detected
+[2026-06-26_16-14-03] PPE violation detected
+[2026-06-26_16-14-20] PPE violation detected
+[2026-06-26_16-14-35] PPE violation detected
+[2026-06-26_16-14-51] PPE violation detected
+[2026-06-26_16-15-07] PPE violation detected
+[2026-06-26_16-15-24] PPE violation detected
+[2026-06-26_16-15-39] PPE violation detected
+[2026-06-26_16-15-55] PPE violation detected
+[2026-06-26_16-16-12] PPE violation detected
+[2026-06-26_16-16-27] PPE violation detected
+[2026-06-26_16-16-43] PPE violation detected
+[2026-06-26_16-16-58] PPE violation detected
+[2026-06-26_16-17-15] PPE violation detected
+[2026-06-26_16-17-31] PPE violation detected
+[2026-06-26_16-17-46] PPE violation detected
+[2026-06-26_16-18-02] PPE violation detected
+[2026-06-26_16-18-17] PPE violation detected
+[2026-06-26_16-18-33] PPE violation detected
+[2026-06-26_16-18-48] PPE violation detected
+[2026-06-26_16-19-05] PPE violation detected
+[2026-06-26_16-19-20] PPE violation detected
+[2026-06-26_16-19-36] PPE violation detected
+[2026-06-26_16-19-52] PPE violation detected
+[2026-06-26_16-20-07] PPE violation detected
+[2026-06-26_16-20-24] PPE violation detected
+[2026-06-26_16-20-39] PPE violation detected
+[2026-06-26_16-20-55] PPE violation detected
+[2026-06-26_16-21-11] PPE violation detected
+[2026-06-26_16-21-27] PPE violation detected
+[2026-06-26_16-21-44] PPE violation detected
+[2026-06-26_16-22-00] PPE violation detected
+[2026-06-26_16-22-16] PPE violation detected
+[2026-06-26_16-22-31] PPE violation detected
+[2026-06-26_16-22-46] PPE violation detected
+[2026-06-26_16-23-02] PPE violation detected
+[2026-06-26_16-23-18] PPE violation detected
+[2026-06-26_16-23-33] PPE violation detected
+[2026-06-26_16-23-48] PPE violation detected
+[2026-06-26_16-24-04] PPE violation detected
+[2026-06-26_16-24-19] PPE violation detected
+[2026-06-26_16-24-34] PPE violation detected
+[2026-06-26_16-24-50] PPE violation detected
+[2026-06-26_16-25-06] PPE violation detected
+[2026-06-26_16-25-21] PPE violation detected
+[2026-06-26_16-25-37] PPE violation detected
+[2026-06-26_16-25-53] PPE violation detected
+[2026-06-26_16-26-08] PPE violation detected
+[2026-06-26_16-26-23] PPE violation detected
+[2026-06-26_16-26-39] PPE violation detected
+[2026-06-26_16-26-56] PPE violation detected
+[2026-06-26_16-27-12] PPE violation detected
+[2026-06-26_16-27-27] PPE violation detected
+[2026-06-26_16-27-43] PPE violation detected
+[2026-06-26_16-27-58] PPE violation detected
+[2026-06-26_16-28-14] PPE violation detected
+[2026-06-26_16-28-30] PPE violation detected
+[2026-06-26_16-28-46] PPE violation detected
+[2026-06-26_16-29-02] PPE violation detected
+[2026-06-26_16-29-18] PPE violation detected
+[2026-06-26_16-29-34] PPE violation detected
+[2026-06-26_16-29-50] PPE violation detected
+[2026-06-26_16-30-06] PPE violation detected
+[2026-06-26_16-30-22] PPE violation detected
+[2026-06-26_16-30-38] PPE violation detected
+[2026-06-26_16-30-54] PPE violation detected
+[2026-06-26_16-31-10] PPE violation detected
+[2026-06-26_16-31-26] PPE violation detected
+[2026-06-26_16-31-42] PPE violation detected
+[2026-06-26_16-31-58] PPE violation detected
+[2026-06-26_16-32-14] PPE violation detected
+[2026-06-26_16-32-30] PPE violation detected
+[2026-06-26_16-32-46] PPE violation detected
+[2026-06-26_16-33-02] PPE violation detected
+[2026-06-26_16-33-18] PPE violation detected
+[2026-06-26_16-33-34] PPE violation detected
+[2026-06-26_16-33-50] PPE violation detected
+[2026-06-26_16-34-06] PPE violation detected
+[2026-06-26_16-34-22] PPE violation detected
+[2026-06-26_16-34-38] PPE violation detected
+[2026-06-26_16-34-54] PPE violation detected
+[2026-06-26_16-35-10] PPE violation detected
+[2026-06-26_16-35-25] PPE violation detected
+[2026-06-26_16-35-41] PPE violation detected
+[2026-06-26_16-35-57] PPE violation detected
+[2026-06-26_16-36-14] PPE violation detected
+[2026-06-26_16-36-29] PPE violation detected
+[2026-06-26_16-36-44] PPE violation detected
+[2026-06-26_16-37-00] PPE violation detected
+[2026-06-26_16-37-16] PPE violation detected
+[2026-06-26_16-37-31] PPE violation detected
+[2026-06-26_16-37-47] PPE violation detected
+[2026-06-26_16-38-03] PPE violation detected
+[2026-06-26_16-38-18] PPE violation detected
+[2026-06-26_16-39-41] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-26_16-43-47] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-26_16-43-52] Unauthorized person detected in monitored area
+[2026-06-26_16-44-13] Unauthorized person detected in monitored area
+[2026-06-26_16-44-28] Unauthorized person detected in monitored area
+[2026-06-26_16-44-44] Unauthorized person detected in monitored area
+[2026-06-26_16-44-59] PPE violation detected
+[2026-06-26_16-45-15] Unauthorized person detected in monitored area
+[2026-06-26_16-45-32] Unauthorized person detected in monitored area
+[2026-06-26_16-45-47] Unauthorized person detected in monitored area
+[2026-06-26_16-46-03] Unauthorized person detected in monitored area
+[2026-06-26_16-46-19] Unauthorized person detected in monitored area
+[2026-06-26_16-46-35] Unauthorized person detected in monitored area
+[2026-06-26_16-46-51] Unauthorized person detected in monitored area
+[2026-06-26_16-47-06] Unauthorized person detected in monitored area
+[2026-06-27_21-02-40] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-02-43] Unauthorized person detected in monitored area
+[2026-06-27_21-06-30] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-13-05] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-15-23] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-15-28] Unauthorized person detected in monitored area
+[2026-06-27_21-15-43] Unauthorized person detected in monitored area
+[2026-06-27_21-16-01] Unauthorized person detected in monitored area
+[2026-06-27_21-16-16] Unauthorized person detected in monitored area
+[2026-06-27_21-16-33] Unauthorized person detected in monitored area
+[2026-06-27_21-16-49] Unauthorized person detected in monitored area
+[2026-06-27_21-17-04] Unauthorized person detected in monitored area
+[2026-06-27_21-17-19] Unauthorized person detected in monitored area
+[2026-06-27_21-17-34] Unauthorized person detected in monitored area
+[2026-06-27_21-17-50] Unauthorized person detected in monitored area
+[2026-06-27_21-18-05] PPE violation detected
+[2026-06-27_21-18-21] Unauthorized person detected in monitored area
+[2026-06-27_21-18-36] PPE violation detected
+[2026-06-27_21-18-51] Unauthorized person detected in monitored area
+[2026-06-27_21-19-49] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-19-52] Unauthorized person detected in monitored area
+[2026-06-27_21-20-09] Unauthorized person detected in monitored area
+[2026-06-27_21-20-24] Unauthorized person detected in monitored area
+[2026-06-27_21-20-39] Unauthorized person detected in monitored area
+[2026-06-27_21-20-54] Unauthorized person detected in monitored area
+[2026-06-27_21-26-50] Unauthorized person detected in monitored area
+[2026-06-27_21-26-52] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-27-05] Unauthorized person detected in monitored area
+[2026-06-27_21-27-20] Unauthorized person detected in monitored area
+[2026-06-27_21-27-36] Unauthorized person detected in monitored area
+[2026-06-27_21-27-52] Unauthorized person detected in monitored area
+[2026-06-27_21-28-08] Unauthorized person detected in monitored area
+[2026-06-27_21-28-24] Unauthorized person detected in monitored area
+[2026-06-27_21-28-39] Unauthorized person detected in monitored area
+[2026-06-27_21-28-55] Unauthorized person detected in monitored area
+[2026-06-27_21-29-11] Unauthorized person detected in monitored area
+[2026-06-27_21-29-26] Unauthorized person detected in monitored area
+[2026-06-27_21-32-16] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-32-23] Unauthorized person detected in monitored area
+[2026-06-27_21-32-38] Unauthorized person detected in monitored area
+[2026-06-27_21-32-53] Unauthorized person detected in monitored area
+[2026-06-27_21-33-08] Unauthorized person detected in monitored area
+[2026-06-27_21-33-24] Unauthorized person detected in monitored area
+[2026-06-27_21-37-16] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-37-18] Unauthorized person detected in monitored area
+[2026-06-27_21-37-35] Unauthorized person detected in monitored area
+[2026-06-27_21-37-51] Unauthorized person detected in monitored area
+[2026-06-27_21-38-06] Unauthorized person detected in monitored area
+[2026-06-27_21-38-22] Unauthorized person detected in monitored area
+[2026-06-27_21-38-37] Unauthorized person detected in monitored area
+[2026-06-27_21-43-51] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-43-57] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-44-22] Unauthorized person detected in monitored area
+[2026-06-27_21-44-38] Unauthorized person detected in monitored area
+[2026-06-27_21-44-53] Unauthorized person detected in monitored area
+[2026-06-27_21-45-08] PPE violation detected
+[2026-06-27_21-45-23] Unauthorized person detected in monitored area
+[2026-06-27_21-45-39] Unauthorized person detected in monitored area
+[2026-06-27_21-45-54] Unauthorized person detected in monitored area
+[2026-06-27_21-46-10] Unauthorized person detected in monitored area
+[2026-06-27_21-46-25] Unauthorized person detected in monitored area
+[2026-06-27_21-46-40] Unauthorized person detected in monitored area
+[2026-06-27_21-46-55] Unauthorized person detected in monitored area
+[2026-06-27_21-47-11] Unauthorized person detected in monitored area
+[2026-06-27_21-47-26] Unauthorized person detected in monitored area
+[2026-06-27_21-47-42] Unauthorized person detected in monitored area
+[2026-06-27_21-47-58] Unauthorized person detected in monitored area
+[2026-06-27_21-48-13] Unauthorized person detected in monitored area
+[2026-06-27_21-48-28] Unauthorized person detected in monitored area
+[2026-06-27_21-48-43] Unauthorized person detected in monitored area
+[2026-06-27_21-48-58] Unauthorized person detected in monitored area
+[2026-06-27_21-49-14] Unauthorized person detected in monitored area
+[2026-06-27_21-49-30] Unauthorized person detected in monitored area
+[2026-06-27_21-49-45] Unauthorized person detected in monitored area
+[2026-06-27_21-50-01] Unauthorized person detected in monitored area
+[2026-06-27_21-50-16] Unauthorized person detected in monitored area
+[2026-06-27_21-50-31] Unauthorized person detected in monitored area
+[2026-06-27_21-50-47] Unauthorized person detected in monitored area
+[2026-06-27_21-51-02] Unauthorized person detected in monitored area
+[2026-06-27_21-51-18] PPE violation detected
+[2026-06-27_21-51-33] Unauthorized person detected in monitored area
+[2026-06-27_21-51-48] Unauthorized person detected in monitored area
+[2026-06-27_21-52-03] Unauthorized person detected in monitored area
+[2026-06-27_21-52-18] Unauthorized person detected in monitored area
+[2026-06-27_21-52-22] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_21-52-34] Unauthorized person detected in monitored area
+[2026-06-27_21-52-49] Unauthorized person detected in monitored area
+[2026-06-27_21-53-04] Unauthorized person detected in monitored area
+[2026-06-27_21-53-19] Unauthorized person detected in monitored area
+[2026-06-27_21-53-39] Unauthorized person detected in monitored area
+[2026-06-27_21-53-54] Unauthorized person detected in monitored area
+[2026-06-27_21-54-10] Unauthorized person detected in monitored area
+[2026-06-27_21-54-26] Unauthorized person detected in monitored area
+[2026-06-27_21-54-41] Unauthorized person detected in monitored area
+[2026-06-27_21-54-56] Unauthorized person detected in monitored area
+[2026-06-27_21-55-12] Unauthorized person detected in monitored area
+[2026-06-27_21-55-28] Unauthorized person detected in monitored area
+[2026-06-27_22-04-47] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_22-05-47] PPE violation detected
+[2026-06-27_22-06-03] Unauthorized person detected
+[2026-06-27_22-06-22] PPE violation detected
+[2026-06-27_22-06-38] PPE violation detected
+[2026-06-27_22-06-54] PPE violation detected
+[2026-06-27_22-07-10] Unauthorized person detected
+[2026-06-27_22-07-25] PPE violation detected
+[2026-06-27_22-07-41] Unauthorized person detected
+[2026-06-27_22-07-57] Unauthorized person detected
+[2026-06-27_22-08-13] Unauthorized person detected
+[2026-06-27_22-08-30] Unauthorized person detected
+[2026-06-27_22-08-46] Unauthorized person detected
+[2026-06-27_22-09-02] Unauthorized person detected
+[2026-06-27_22-09-18] Unauthorized person detected
+[2026-06-27_22-09-36] Unauthorized person detected
+[2026-06-27_22-09-52] PPE violation detected
+[2026-06-27_22-10-07] Unauthorized person detected
+[2026-06-27_22-10-22] Unauthorized person detected
+[2026-06-27_22-10-38] Unauthorized person detected
+[2026-06-27_22-10-54] Unauthorized person detected
+[2026-06-27_22-11-11] Unauthorized person detected
+[2026-06-27_22-11-27] Unauthorized person detected
+[2026-06-27_22-11-43] Unauthorized person detected
+[2026-06-27_22-11-59] Unauthorized person detected
+[2026-06-27_22-12-16] Unauthorized person detected
+[2026-06-27_22-12-31] Unauthorized person detected
+[2026-06-27_22-12-47] Unauthorized person detected
+[2026-06-27_22-13-03] Unauthorized person detected
+[2026-06-27_22-13-19] Unauthorized person detected
+[2026-06-27_22-13-35] Unauthorized person detected
+[2026-06-27_22-13-51] Unauthorized person detected
+[2026-06-27_22-14-07] Unauthorized person detected
+[2026-06-27_22-14-22] Unauthorized person detected
+[2026-06-27_22-14-37] Unauthorized person detected
+[2026-06-27_22-14-52] Unauthorized person detected
+[2026-06-27_22-15-08] Unauthorized person detected
+[2026-06-27_22-15-24] Unauthorized person detected
+[2026-06-27_22-15-39] Unauthorized person detected
+[2026-06-27_22-15-57] Unauthorized person detected
+[2026-06-27_22-16-13] Unauthorized person detected
+[2026-06-27_22-16-28] Unauthorized person detected
+[2026-06-27_22-16-44] Unauthorized person detected
+[2026-06-27_22-17-03] Unauthorized person detected
+[2026-06-27_22-17-19] Unauthorized person detected
+[2026-06-27_22-17-36] Unauthorized person detected
+[2026-06-27_22-17-52] Unauthorized person detected
+[2026-06-27_22-18-08] Unauthorized person detected
+[2026-06-27_22-18-24] Unauthorized person detected
+[2026-06-27_22-18-39] Unauthorized person detected
+[2026-06-27_22-19-00] Unauthorized person detected
+[2026-06-27_22-19-17] Unauthorized person detected
+[2026-06-27_22-19-33] Unauthorized person detected
+[2026-06-27_22-19-49] Unauthorized person detected
+[2026-06-27_22-20-04] Unauthorized person detected
+[2026-06-27_22-20-19] Unauthorized person detected
+[2026-06-27_22-20-35] Unauthorized person detected
+[2026-06-27_22-20-51] Unauthorized person detected
+[2026-06-27_22-21-06] Unauthorized person detected
+[2026-06-27_22-21-21] Unauthorized person detected
+[2026-06-27_22-21-38] Unauthorized person detected
+[2026-06-27_22-21-53] Unauthorized person detected
+[2026-06-27_22-22-09] Unauthorized person detected
+[2026-06-27_22-22-25] Unauthorized person detected
+[2026-06-27_22-22-42] Unauthorized person detected
+[2026-06-27_22-22-58] Unauthorized person detected
+[2026-06-27_22-23-16] Unauthorized person detected
+[2026-06-27_22-24-01] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_22-24-23] Unauthorized person detected
+[2026-06-27_22-24-39] PPE violation detected
+[2026-06-27_22-24-56] PPE violation detected
+[2026-06-27_22-25-11] PPE violation detected
+[2026-06-27_22-25-27] PPE violation detected
+[2026-06-27_22-25-43] PPE violation detected
+[2026-06-27_22-25-59] Unauthorized person detected
+[2026-06-27_22-26-14] PPE violation detected
+[2026-06-27_22-26-29] PPE violation detected
+[2026-06-27_22-26-45] PPE violation detected
+[2026-06-27_22-27-00] PPE violation detected
+[2026-06-27_22-27-16] PPE violation detected
+[2026-06-27_22-27-33] PPE violation detected
+[2026-06-27_22-28-16] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_22-28-32] PPE violation detected
+[2026-06-27_22-28-48] PPE violation detected
+[2026-06-27_22-31-00] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_22-31-12] PPE violation detected
+[2026-06-27_22-31-30] PPE violation detected
+[2026-06-27_22-31-45] PPE violation detected
+[2026-06-27_22-32-01] PPE violation detected
+[2026-06-27_22-32-16] PPE violation detected
+[2026-06-27_22-32-32] PPE violation detected
+[2026-06-27_22-32-47] PPE violation detected
+[2026-06-27_22-33-03] PPE violation detected
+[2026-06-27_22-33-18] PPE violation detected
+[2026-06-27_22-33-33] PPE violation detected
+[2026-06-27_22-33-49] PPE violation detected
+[2026-06-27_22-34-04] PPE violation detected
+[2026-06-27_22-34-19] PPE violation detected
+[2026-06-27_22-34-57] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_22-35-00] PPE violation detected
+[2026-06-27_22-35-16] Unauthorized person detected
+[2026-06-27_22-35-33] PPE violation detected
+[2026-06-27_22-35-49] PPE violation detected
+[2026-06-27_22-36-06] Unauthorized person detected
+[2026-06-27_22-36-23] PPE violation detected
+[2026-06-27_22-36-38] PPE violation detected
+[2026-06-27_22-36-54] PPE violation detected
+[2026-06-27_22-37-10] Unauthorized person detected
+[2026-06-27_22-37-26] PPE violation detected
+[2026-06-27_22-37-41] PPE violation detected
+[2026-06-27_22-37-57] PPE violation detected
+[2026-06-27_22-38-12] PPE violation detected
+[2026-06-27_22-38-29] PPE violation detected
+[2026-06-27_22-38-45] PPE violation detected
+[2026-06-27_22-39-01] PPE violation detected
+[2026-06-27_22-39-17] PPE violation detected
+[2026-06-27_22-39-33] PPE violation detected
+[2026-06-27_22-39-48] PPE violation detected
+[2026-06-27_22-40-03] PPE violation detected
+[2026-06-27_22-40-19] PPE violation detected
+[2026-06-27_22-40-34] PPE violation detected
+[2026-06-27_22-40-49] PPE violation detected
+[2026-06-27_22-41-05] PPE violation detected
+[2026-06-27_22-41-21] PPE violation detected
+[2026-06-27_22-41-37] PPE violation detected
+[2026-06-27_22-41-52] PPE violation detected
+[2026-06-27_22-42-08] PPE violation detected
+[2026-06-27_22-42-24] PPE violation detected
+[2026-06-27_22-42-39] PPE violation detected
+[2026-06-27_22-42-55] PPE violation detected
+[2026-06-27_22-43-10] PPE violation detected
+[2026-06-27_22-43-26] PPE violation detected
+[2026-06-27_22-43-42] PPE violation detected
+[2026-06-27_22-43-57] PPE violation detected
+[2026-06-27_22-44-12] PPE violation detected
+[2026-06-27_22-44-28] PPE violation detected
+[2026-06-27_22-44-44] PPE violation detected
+[2026-06-27_22-44-59] PPE violation detected
+[2026-06-27_22-45-15] PPE violation detected
+[2026-06-27_22-45-30] PPE violation detected
+[2026-06-27_22-45-46] PPE violation detected
+[2026-06-27_22-46-01] PPE violation detected
+[2026-06-27_22-46-17] PPE violation detected
+[2026-06-27_22-46-34] PPE violation detected
+[2026-06-27_22-46-49] PPE violation detected
+[2026-06-27_22-47-04] PPE violation detected
+[2026-06-27_22-47-20] PPE violation detected
+[2026-06-27_22-47-35] PPE violation detected
+[2026-06-27_22-47-50] Unauthorized person detected
+[2026-06-27_22-48-06] PPE violation detected
+[2026-06-27_22-48-21] PPE violation detected
+[2026-06-27_22-48-36] PPE violation detected
+[2026-06-27_22-48-52] PPE violation detected
+[2026-06-27_22-49-08] PPE violation detected
+[2026-06-27_22-49-24] PPE violation detected
+[2026-06-27_22-49-39] PPE violation detected
+[2026-06-27_22-49-54] PPE violation detected
+[2026-06-27_22-50-11] PPE violation detected
+[2026-06-27_22-50-26] PPE violation detected
+[2026-06-27_22-50-41] PPE violation detected
+[2026-06-27_22-50-57] PPE violation detected
+[2026-06-27_22-51-12] PPE violation detected
+[2026-06-27_22-51-27] PPE violation detected
+[2026-06-27_22-51-42] PPE violation detected
+[2026-06-27_22-51-58] PPE violation detected
+[2026-06-27_22-52-14] Unauthorized person detected
+[2026-06-27_22-52-29] PPE violation detected
+[2026-06-27_22-52-45] PPE violation detected
+[2026-06-27_22-53-02] PPE violation detected
+[2026-06-27_22-53-17] PPE violation detected
+[2026-06-27_22-53-32] PPE violation detected
+[2026-06-27_22-53-48] PPE violation detected
+[2026-06-27_22-54-04] PPE violation detected
+[2026-06-27_22-54-21] PPE violation detected
+[2026-06-27_22-54-36] PPE violation detected
+[2026-06-27_22-54-52] PPE violation detected
+[2026-06-27_22-55-07] PPE violation detected
+[2026-06-27_22-55-24] PPE violation detected
+[2026-06-27_22-55-39] PPE violation detected
+[2026-06-27_22-55-55] PPE violation detected
+[2026-06-27_22-56-11] PPE violation detected
+[2026-06-27_22-56-26] PPE violation detected
+[2026-06-27_22-56-41] PPE violation detected
+[2026-06-27_22-56-57] PPE violation detected
+[2026-06-27_22-57-13] PPE violation detected
+[2026-06-27_22-57-28] PPE violation detected
+[2026-06-27_22-57-43] PPE violation detected
+[2026-06-27_22-57-59] PPE violation detected
+[2026-06-27_22-58-15] PPE violation detected
+[2026-06-27_22-58-30] PPE violation detected
+[2026-06-27_22-58-46] PPE violation detected
+[2026-06-27_22-59-01] PPE violation detected
+[2026-06-27_22-59-16] PPE violation detected
+[2026-06-27_22-59-32] PPE violation detected
+[2026-06-27_22-59-48] PPE violation detected
+[2026-06-27_23-00-03] PPE violation detected
+[2026-06-27_23-00-19] PPE violation detected
+[2026-06-27_23-00-34] PPE violation detected
+[2026-06-27_23-00-49] PPE violation detected
+[2026-06-27_23-01-05] PPE violation detected
+[2026-06-27_23-01-21] PPE violation detected
+[2026-06-27_23-01-36] PPE violation detected
+[2026-06-27_23-01-52] PPE violation detected
+[2026-06-27_23-02-08] PPE violation detected
+[2026-06-27_23-02-23] PPE violation detected
+[2026-06-27_23-02-38] PPE violation detected
+[2026-06-27_23-02-54] PPE violation detected
+[2026-06-27_23-03-10] PPE violation detected
+[2026-06-27_23-03-26] PPE violation detected
+[2026-06-27_23-03-42] PPE violation detected
+[2026-06-27_23-03-57] PPE violation detected
+[2026-06-27_23-04-12] PPE violation detected
+[2026-06-27_23-04-28] PPE violation detected
+[2026-06-27_23-04-43] PPE violation detected
+[2026-06-27_23-04-59] PPE violation detected
+[2026-06-27_23-05-15] PPE violation detected
+[2026-06-27_23-05-30] PPE violation detected
+[2026-06-27_23-05-47] PPE violation detected
+[2026-06-27_23-06-02] PPE violation detected
+[2026-06-27_23-06-18] PPE violation detected
+[2026-06-27_23-06-34] PPE violation detected
+[2026-06-27_23-06-49] PPE violation detected
+[2026-06-27_23-07-04] PPE violation detected
+[2026-06-27_23-07-20] PPE violation detected
+[2026-06-27_23-07-36] PPE violation detected
+[2026-06-27_23-07-52] PPE violation detected
+[2026-06-27_23-08-08] PPE violation detected
+[2026-06-27_23-08-23] PPE violation detected
+[2026-06-27_23-08-39] PPE violation detected
+[2026-06-27_23-08-55] PPE violation detected
+[2026-06-27_23-09-11] PPE violation detected
+[2026-06-27_23-09-26] PPE violation detected
+[2026-06-27_23-09-42] PPE violation detected
+[2026-06-27_23-09-58] PPE violation detected
+[2026-06-27_23-10-14] PPE violation detected
+[2026-06-27_23-10-29] PPE violation detected
+[2026-06-27_23-10-44] PPE violation detected
+[2026-06-27_23-11-00] PPE violation detected
+[2026-06-27_23-11-16] PPE violation detected
+[2026-06-27_23-11-32] PPE violation detected
+[2026-06-27_23-11-48] PPE violation detected
+[2026-06-27_23-12-03] PPE violation detected
+[2026-06-27_23-12-18] PPE violation detected
+[2026-06-27_23-12-33] PPE violation detected
+[2026-06-27_23-12-49] PPE violation detected
+[2026-06-27_23-13-05] PPE violation detected
+[2026-06-27_23-13-22] PPE violation detected
+[2026-06-27_23-13-39] PPE violation detected
+[2026-06-27_23-13-54] PPE violation detected
+[2026-06-27_23-14-28] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_23-14-51] PPE violation detected
+[2026-06-27_23-15-06] Unauthorized person detected
+[2026-06-27_23-15-23] Unauthorized person detected
+[2026-06-27_23-15-39] PPE violation detected
+[2026-06-27_23-15-55] PPE violation detected
+[2026-06-27_23-16-10] PPE violation detected
+[2026-06-27_23-16-26] Unauthorized person detected
+[2026-06-27_23-20-01] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_23-20-10] PPE violation detected
+[2026-06-27_23-20-25] PPE violation detected
+[2026-06-27_23-20-41] PPE violation detected
+[2026-06-27_23-20-56] PPE violation detected
+[2026-06-27_23-21-11] Unauthorized person detected
+[2026-06-27_23-21-26] Unauthorized person detected
+[2026-06-27_23-21-41] PPE violation detected
+[2026-06-27_23-21-56] PPE violation detected
+[2026-06-27_23-22-12] PPE violation detected
+[2026-06-27_23-22-27] PPE violation detected
+[2026-06-27_23-22-42] PPE violation detected
+[2026-06-27_23-23-32] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_23-23-37] PPE violation detected
+[2026-06-27_23-23-52] PPE violation detected
+[2026-06-27_23-24-07] Unauthorized person detected
+[2026-06-27_23-26-41] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-06-27_23-26-51] PPE violation detected
+[2026-06-27_23-27-08] PPE violation detected
+[2026-06-27_23-27-24] PPE violation detected
+[2026-06-27_23-27-40] PPE violation detected
+[2026-06-27_23-27-58] PPE violation detected
+[2026-06-27_23-28-13] PPE violation detected
+[2026-06-27_23-28-30] Unauthorized person detected
+[2026-06-27_23-28-45] Unauthorized person detected
+[2026-06-27_23-29-01] PPE violation detected
+[2026-06-27_23-29-16] PPE violation detected
+[2026-06-27_23-29-32] PPE violation detected
+[2026-06-27_23-29-48] PPE violation detected
+[2026-06-27_23-31-05] PPE violation detected
+[2026-06-27_23-31-21] PPE violation detected
+[2026-06-27_23-31-39] PPE violation detected
+[2026-06-27_23-31-56] PPE violation detected
+[2026-06-27_23-32-12] PPE violation detected
+[2026-06-27_23-32-27] PPE violation detected
+[2026-06-27_23-32-43] PPE violation detected
+[2026-06-27_23-32-59] PPE violation detected
+[2026-06-27_23-33-14] PPE violation detected
+[2026-06-27_23-33-30] PPE violation detected
+[2026-06-27_23-33-45] PPE violation detected
+[2026-06-27_23-34-00] PPE violation detected
+[2026-06-27_23-34-16] PPE violation detected
+[2026-06-27_23-34-33] PPE violation detected
+[2026-07-03_18-10-30] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-03_18-10-56] PPE violation detected
+[2026-07-03_18-11-12] PPE violation detected
+[2026-07-03_18-11-28] PPE violation detected
+[2026-07-03_18-11-44] PPE violation detected
+[2026-07-03_18-12-01] PPE violation detected
+[2026-07-03_18-12-17] PPE violation detected
+[2026-07-03_18-12-35] PPE violation detected
+[2026-07-03_18-12-50] PPE violation detected
+[2026-07-03_18-13-07] PPE violation detected
+[2026-07-04_15-51-19] PPE violation detected
+[2026-07-04_15-51-37] PPE violation detected
+[2026-07-04_15-51-53] PPE violation detected
+[2026-07-04_15-52-08] PPE violation detected
+[2026-07-04_15-52-25] PPE violation detected
+[2026-07-04_15-52-41] PPE violation detected
+[2026-07-04_15-52-57] PPE violation detected
+[2026-07-04_15-53-13] PPE violation detected
+[2026-07-04_15-53-29] PPE violation detected
+[2026-07-04_16-00-02] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_16-00-35] PPE violation detected
+[2026-07-04_16-00-50] PPE violation detected
+[2026-07-04_16-01-06] PPE violation detected
+[2026-07-04_16-01-27] PPE violation detected
+[2026-07-04_16-01-45] PPE violation detected
+[2026-07-04_16-02-01] PPE violation detected
+[2026-07-04_16-02-16] PPE violation detected
+[2026-07-04_16-02-32] PPE violation detected
+[2026-07-04_16-02-49] PPE violation detected
+[2026-07-04_16-03-05] PPE violation detected
+[2026-07-04_16-03-21] PPE violation detected
+[2026-07-04_16-03-37] PPE violation detected
+[2026-07-04_16-03-53] PPE violation detected
+[2026-07-04_16-04-08] PPE violation detected
+[2026-07-04_16-04-24] PPE violation detected
+[2026-07-04_16-04-40] PPE violation detected
+[2026-07-04_16-04-55] PPE violation detected
+[2026-07-04_16-05-11] PPE violation detected
+[2026-07-04_16-06-15] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_16-06-47] PPE violation detected
+[2026-07-04_16-07-05] PPE violation detected
+[2026-07-04_16-07-22] Unauthorized person detected
+[2026-07-04_16-07-46] PPE violation detected
+[2026-07-04_16-08-02] PPE violation detected
+[2026-07-04_16-08-20] PPE violation detected
+[2026-07-04_16-08-35] PPE violation detected
+[2026-07-04_16-08-51] PPE violation detected
+[2026-07-04_16-09-07] PPE violation detected
+[2026-07-04_16-09-24] PPE violation detected
+[2026-07-04_16-09-40] PPE violation detected
+[2026-07-04_16-09-56] PPE violation detected
+[2026-07-04_16-10-11] PPE violation detected
+[2026-07-04_16-10-26] PPE violation detected
+[2026-07-04_16-10-43] PPE violation detected
+[2026-07-04_16-10-58] PPE violation detected
+[2026-07-04_16-11-14] PPE violation detected
+[2026-07-04_16-11-29] PPE violation detected
+[2026-07-04_16-11-45] PPE violation detected
+[2026-07-04_16-12-00] PPE violation detected
+[2026-07-04_16-12-15] PPE violation detected
+[2026-07-04_16-12-31] PPE violation detected
+[2026-07-04_16-12-47] PPE violation detected
+[2026-07-04_16-13-03] PPE violation detected
+[2026-07-04_16-13-18] PPE violation detected
+[2026-07-04_16-13-33] PPE violation detected
+[2026-07-04_16-16-01] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_16-16-38] Unauthorized person detected
+[2026-07-04_16-16-54] PPE violation detected
+[2026-07-04_16-17-10] Unauthorized person detected
+[2026-07-04_16-17-25] Unauthorized person detected
+[2026-07-04_16-22-07] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_16-22-10] Unauthorized person detected
+[2026-07-04_16-22-28] Unauthorized person detected
+[2026-07-04_16-22-45] PPE violation detected
+[2026-07-04_16-23-00] PPE violation detected
+[2026-07-04_16-23-15] PPE violation detected
+[2026-07-04_16-23-31] PPE violation detected
+[2026-07-04_16-23-48] PPE violation detected
+[2026-07-04_16-24-03] PPE violation detected
+[2026-07-04_16-24-19] PPE violation detected
+[2026-07-04_16-24-35] PPE violation detected
+[2026-07-04_16-27-10] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_16-27-27] Unauthorized person detected
+[2026-07-04_16-27-44] Unauthorized person detected
+[2026-07-04_16-27-59] Unauthorized person detected
+[2026-07-04_16-28-15] Unauthorized person detected
+[2026-07-04_16-28-32] Unauthorized person detected
+[2026-07-04_16-28-50] Unauthorized person detected
+[2026-07-04_16-29-07] Unauthorized person detected
+[2026-07-04_16-29-25] Unauthorized person detected
+[2026-07-04_16-29-41] Unauthorized person detected
+[2026-07-04_16-29-57] PPE violation detected
+[2026-07-04_16-33-18] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_16-33-43] PPE violation detected
+[2026-07-04_16-33-59] Unauthorized person detected
+[2026-07-04_16-34-15] PPE violation detected
+[2026-07-04_16-34-30] Unauthorized person detected
+[2026-07-04_16-34-45] Unauthorized person detected
+[2026-07-04_16-35-00] PPE violation detected
+[2026-07-04_16-35-16] PPE violation detected
+[2026-07-04_16-35-31] Unauthorized person detected
+[2026-07-04_16-37-35] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_16-38-03] PPE violation detected
+[2026-07-04_16-38-19] Unauthorized person detected
+[2026-07-04_16-38-35] PPE violation detected
+[2026-07-04_16-38-52] PPE violation detected
+[2026-07-04_16-39-08] PPE violation detected
+[2026-07-04_16-39-23] Unauthorized person detected
+[2026-07-04_16-39-38] PPE violation detected
+[2026-07-04_16-39-54] PPE violation detected
+[2026-07-04_16-40-09] Unauthorized person detected
+[2026-07-04_17-16-48] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_17-17-58] Unauthorized person detected
+[2026-07-04_17-18-13] Unauthorized person detected
+[2026-07-04_17-18-28] Unauthorized person detected
+[2026-07-04_17-18-44] Unauthorized person detected
+[2026-07-04_17-19-00] Unauthorized person detected
+[2026-07-04_17-19-16] Unauthorized person detected
+[2026-07-04_17-19-32] Unauthorized person detected
+[2026-07-04_17-19-49] Unauthorized person detected
+[2026-07-04_17-20-04] Unauthorized person detected
+[2026-07-04_17-20-20] Unauthorized person detected
+[2026-07-04_17-20-35] Unauthorized person detected
+[2026-07-04_17-20-51] Unauthorized person detected
+[2026-07-04_17-21-07] Unauthorized person detected
+[2026-07-04_17-21-23] Unauthorized person detected
+[2026-07-04_17-21-39] Unauthorized person detected
+[2026-07-04_17-21-56] Unauthorized person detected
+[2026-07-04_17-24-07] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_17-26-18] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_17-26-59] Unauthorized person detected
+[2026-07-04_17-27-16] Unauthorized person detected
+[2026-07-04_17-27-32] Unauthorized person detected
+[2026-07-04_17-28-20] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_17-28-48] Unauthorized person detected
+[2026-07-04_17-29-04] Unauthorized person detected
+[2026-07-04_17-29-20] Unauthorized person detected
+[2026-07-04_17-30-15] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_17-31-57] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_17-32-28] Unauthorized person detected
+[2026-07-04_17-38-58] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_17-40-17] Unauthorized person detected
+[2026-07-04_17-40-32] Unauthorized person detected
+[2026-07-04_17-40-47] Unauthorized person detected
+[2026-07-04_17-41-03] Unauthorized person detected
+[2026-07-04_17-41-18] Unauthorized person detected
+[2026-07-04_17-41-33] Unauthorized person detected
+[2026-07-04_17-41-48] Unauthorized person detected
+[2026-07-04_17-42-04] Unauthorized person detected
+[2026-07-04_17-42-19] Unauthorized person detected
+[2026-07-04_17-42-35] Unauthorized person detected
+[2026-07-04_17-42-50] Unauthorized person detected
+[2026-07-04_17-43-05] Unauthorized person detected
+[2026-07-04_17-43-20] Unauthorized person detected
+[2026-07-04_17-43-36] Unauthorized person detected
+[2026-07-04_17-43-52] Unauthorized person detected
+[2026-07-04_17-44-08] Unauthorized person detected
+[2026-07-04_17-44-24] Unauthorized person detected
+[2026-07-04_17-44-39] Unauthorized person detected
+[2026-07-04_17-44-56] Unauthorized person detected
+[2026-07-04_17-45-12] Unauthorized person detected
+[2026-07-04_17-45-27] Unauthorized person detected
+[2026-07-04_17-58-20] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_18-00-58] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_18-07-49] Unauthorized person detected
+[2026-07-04_18-08-04] Unauthorized person detected
+[2026-07-04_18-08-19] Unauthorized person detected
+[2026-07-04_18-08-34] Unauthorized person detected
+[2026-07-04_18-08-51] Unauthorized person detected
+[2026-07-04_18-09-07] Unauthorized person detected
+[2026-07-04_18-09-22] Unauthorized person detected
+[2026-07-04_18-09-38] Unauthorized person detected
+[2026-07-04_18-09-53] Unauthorized person detected
+[2026-07-04_18-10-08] Unauthorized person detected
+[2026-07-04_18-10-25] Unauthorized person detected
+[2026-07-04_18-10-40] Unauthorized person detected
+[2026-07-04_18-10-55] Unauthorized person detected
+[2026-07-04_18-11-11] Unauthorized person detected
+[2026-07-04_18-11-26] Unauthorized person detected
+[2026-07-04_18-11-41] Unauthorized person detected
+[2026-07-04_18-11-58] Unauthorized person detected
+[2026-07-04_18-12-14] Unauthorized person detected
+[2026-07-04_18-12-29] Unauthorized person detected
+[2026-07-04_18-12-45] Unauthorized person detected
+[2026-07-04_18-13-01] Unauthorized person detected
+[2026-07-04_18-13-16] Unauthorized person detected
+[2026-07-04_18-13-33] Unauthorized person detected
+[2026-07-04_18-13-48] Unauthorized person detected
+[2026-07-04_18-14-03] Unauthorized person detected
+[2026-07-04_18-14-18] Unauthorized person detected
+[2026-07-04_18-14-33] Unauthorized person detected
+[2026-07-04_18-14-49] Unauthorized person detected
+[2026-07-04_18-15-04] Unauthorized person detected
+[2026-07-04_18-15-19] Unauthorized person detected
+[2026-07-04_18-15-35] Unauthorized person detected
+[2026-07-04_18-15-51] Unauthorized person detected
+[2026-07-04_18-16-07] Unauthorized person detected
+[2026-07-04_18-16-22] Unauthorized person detected
+[2026-07-04_18-17-20] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_18-20-48] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_18-23-24] Unauthorized person detected
+[2026-07-04_18-23-40] Unauthorized person detected
+[2026-07-04_18-23-55] Unauthorized person detected
+[2026-07-04_18-24-10] Unauthorized person detected
+[2026-07-04_18-24-25] Unauthorized person detected
+[2026-07-04_18-24-41] Unauthorized person detected
+[2026-07-04_18-24-56] Unauthorized person detected
+[2026-07-04_18-25-12] Unauthorized person detected
+[2026-07-04_18-25-29] Unauthorized person detected
+[2026-07-04_18-25-44] Unauthorized person detected
+[2026-07-04_18-25-59] Unauthorized person detected
+[2026-07-04_18-26-14] Unauthorized person detected
+[2026-07-04_18-26-29] Unauthorized person detected
+[2026-07-04_18-26-45] Unauthorized person detected
+[2026-07-04_18-27-01] Unauthorized person detected
+[2026-07-04_18-27-16] Unauthorized person detected
+[2026-07-04_18-27-31] Unauthorized person detected
+[2026-07-04_18-27-46] PPE violation detected
+[2026-07-04_18-28-02] Unauthorized person detected
+[2026-07-04_18-28-18] Unauthorized person detected
+[2026-07-04_18-28-33] Unauthorized person detected
+[2026-07-04_18-28-48] Unauthorized person detected
+[2026-07-04_18-29-04] Unauthorized person detected
+[2026-07-04_18-29-19] Unauthorized person detected
+[2026-07-04_18-29-35] Unauthorized person detected
+[2026-07-04_18-29-50] Unauthorized person detected
+[2026-07-04_18-30-05] Unauthorized person detected
+[2026-07-04_18-30-21] Unauthorized person detected
+[2026-07-04_18-30-37] Unauthorized person detected
+[2026-07-04_18-30-52] Unauthorized person detected
+[2026-07-04_18-31-08] Unauthorized person detected
+[2026-07-04_18-31-23] Unauthorized person detected
+[2026-07-04_18-31-39] PPE violation detected
+[2026-07-04_18-31-55] Unauthorized person detected
+[2026-07-04_18-32-11] Unauthorized person detected
+[2026-07-04_18-32-27] Unauthorized person detected
+[2026-07-04_18-32-42] Unauthorized person detected
+[2026-07-04_18-32-57] Unauthorized person detected
+[2026-07-04_18-33-13] Unauthorized person detected
+[2026-07-04_18-33-28] Unauthorized person detected
+[2026-07-04_18-33-43] Unauthorized person detected
+[2026-07-04_18-33-58] Unauthorized person detected
+[2026-07-04_18-34-13] Unauthorized person detected
+[2026-07-04_18-34-29] Unauthorized person detected
+[2026-07-04_18-34-45] Unauthorized person detected
+[2026-07-04_18-35-00] Unauthorized person detected
+[2026-07-04_18-35-15] Unauthorized person detected
+[2026-07-04_18-35-31] Unauthorized person detected
+[2026-07-04_18-35-47] Unauthorized person detected
+[2026-07-04_19-03-06] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_19-15-21] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-04_19-16-10] Unauthorized person detected
+[2026-07-04_19-16-27] Unauthorized person detected
+[2026-07-04_19-16-43] Unauthorized person detected
+[2026-07-04_19-16-58] Unauthorized person detected
+[2026-07-04_19-17-13] Unauthorized person detected
+[2026-07-04_19-17-29] PPE violation detected
+[2026-07-04_19-17-45] PPE violation detected
+[2026-07-04_19-18-00] PPE violation detected
+[2026-07-04_19-18-56] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_09-55-52] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_09-57-19] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_09-58-44] Unauthorized person detected
+[2026-07-05_09-59-03] PPE violation detected
+[2026-07-05_09-59-21] PPE violation detected
+[2026-07-05_09-59-37] PPE violation detected
+[2026-07-05_09-59-55] PPE violation detected
+[2026-07-05_10-00-11] PPE violation detected
+[2026-07-05_10-00-27] Unauthorized person detected
+[2026-07-05_10-00-45] Unauthorized person detected
+[2026-07-05_10-01-01] Unauthorized person detected
+[2026-07-05_10-01-17] Unauthorized person detected
+[2026-07-05_10-01-33] Unauthorized person detected
+[2026-07-05_10-01-48] PPE violation detected
+[2026-07-05_10-02-03] Unauthorized person detected
+[2026-07-05_10-02-19] PPE violation detected
+[2026-07-05_10-02-35] Unauthorized person detected
+[2026-07-05_10-02-51] Unauthorized person detected
+[2026-07-05_10-03-07] Unauthorized person detected
+[2026-07-05_10-03-22] Unauthorized person detected
+[2026-07-05_10-03-37] Unauthorized person detected
+[2026-07-05_10-12-20] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_10-12-54] Unauthorized person detected
+[2026-07-05_10-13-13] Unauthorized person detected
+[2026-07-05_10-13-29] Unauthorized person detected
+[2026-07-05_10-13-45] Unauthorized person detected
+[2026-07-05_10-14-00] Unauthorized person detected
+[2026-07-05_10-14-15] Unauthorized person detected
+[2026-07-05_10-14-30] Unauthorized person detected
+[2026-07-05_10-14-46] Unauthorized person detected
+[2026-07-05_10-15-02] Unauthorized person detected
+[2026-07-05_10-15-18] Unauthorized person detected
+[2026-07-05_10-15-34] Unauthorized person detected
+[2026-07-05_10-15-49] Unauthorized person detected
+[2026-07-05_10-16-04] Unauthorized person detected
+[2026-07-05_10-16-20] Unauthorized person detected
+[2026-07-05_10-16-35] Unauthorized person detected
+[2026-07-05_10-16-50] Unauthorized person detected
+[2026-07-05_10-17-06] Unauthorized person detected
+[2026-07-05_10-17-22] Unauthorized person detected
+[2026-07-05_10-17-37] Unauthorized person detected
+[2026-07-05_10-17-52] Unauthorized person detected
+[2026-07-05_10-18-07] Unauthorized person detected
+[2026-07-05_10-18-22] Unauthorized person detected
+[2026-07-05_10-18-37] Unauthorized person detected
+[2026-07-05_10-19-25] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_10-19-55] Unauthorized person detected
+[2026-07-05_10-20-11] Unauthorized person detected
+[2026-07-05_10-20-27] Unauthorized person detected
+[2026-07-05_10-20-45] Unauthorized person detected
+[2026-07-05_10-21-00] Unauthorized person detected
+[2026-07-05_10-21-16] Unauthorized person detected
+[2026-07-05_10-21-33] Unauthorized person detected
+[2026-07-05_10-21-48] Unauthorized person detected
+[2026-07-05_10-22-04] Unauthorized person detected
+[2026-07-05_10-22-19] Unauthorized person detected
+[2026-07-05_10-22-34] Unauthorized person detected
+[2026-07-05_10-22-51] Unauthorized person detected
+[2026-07-05_10-23-09] Unauthorized person detected
+[2026-07-05_10-23-29] Unauthorized person detected
+[2026-07-05_10-23-47] Unauthorized person detected
+[2026-07-05_10-24-04] Unauthorized person detected
+[2026-07-05_10-24-23] PPE violation detected
+[2026-07-05_10-24-38] PPE violation detected
+[2026-07-05_10-24-54] Unauthorized person detected
+[2026-07-05_10-25-10] Unauthorized person detected
+[2026-07-05_10-25-25] Unauthorized person detected
+[2026-07-05_10-25-42] Unauthorized person detected
+[2026-07-05_10-25-57] Unauthorized person detected
+[2026-07-05_10-26-13] Unauthorized person detected
+[2026-07-05_10-26-28] Unauthorized person detected
+[2026-07-05_10-26-44] Unauthorized person detected
+[2026-07-05_10-27-01] Unauthorized person detected
+[2026-07-05_10-27-18] Unauthorized person detected
+[2026-07-05_10-27-34] Unauthorized person detected
+[2026-07-05_10-27-49] Unauthorized person detected
+[2026-07-05_10-28-04] Unauthorized person detected
+[2026-07-05_10-28-46] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_10-29-06] Unauthorized person detected
+[2026-07-05_10-29-26] Unauthorized person detected
+[2026-07-05_10-29-44] Unauthorized person detected
+[2026-07-05_10-29-59] Unauthorized person detected
+[2026-07-05_10-30-15] Unauthorized person detected
+[2026-07-05_10-30-31] Unauthorized person detected
+[2026-07-05_10-30-46] Unauthorized person detected
+[2026-07-05_10-31-01] Unauthorized person detected
+[2026-07-05_10-31-18] Unauthorized person detected
+[2026-07-05_10-31-38] Unauthorized person detected
+[2026-07-05_10-31-58] Unauthorized person detected
+[2026-07-05_10-32-16] Unauthorized person detected
+[2026-07-05_10-32-33] Unauthorized person detected
+[2026-07-05_10-32-49] Unauthorized person detected
+[2026-07-05_10-33-04] Unauthorized person detected
+[2026-07-05_10-33-20] Unauthorized person detected
+[2026-07-05_10-33-35] Unauthorized person detected
+[2026-07-05_10-33-50] Unauthorized person detected
+[2026-07-05_10-34-06] Unauthorized person detected
+[2026-07-05_10-34-21] Unauthorized person detected
+[2026-07-05_10-34-36] Unauthorized person detected
+[2026-07-05_10-34-52] Unauthorized person detected
+[2026-07-05_10-35-07] Unauthorized person detected
+[2026-07-05_10-35-23] Unauthorized person detected
+[2026-07-05_10-35-39] Unauthorized person detected
+[2026-07-05_10-35-54] Unauthorized person detected
+[2026-07-05_10-36-10] Unauthorized person detected
+[2026-07-05_10-37-03] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_10-37-37] Unauthorized person detected
+[2026-07-05_10-37-54] Unauthorized person detected
+[2026-07-05_10-38-10] Unauthorized person detected
+[2026-07-05_10-38-27] Unauthorized person detected
+[2026-07-05_10-38-44] Unauthorized person detected
+[2026-07-05_10-39-01] Unauthorized person detected
+[2026-07-05_10-39-19] Unauthorized person detected
+[2026-07-05_10-39-35] Unauthorized person detected
+[2026-07-05_10-39-52] Unauthorized person detected
+[2026-07-05_10-40-09] Unauthorized person detected
+[2026-07-05_10-40-27] Unauthorized person detected
+[2026-07-05_10-40-44] Unauthorized person detected
+[2026-07-05_10-41-00] Unauthorized person detected
+[2026-07-05_10-41-16] Unauthorized person detected
+[2026-07-05_10-41-31] Unauthorized person detected
+[2026-07-05_10-41-48] Unauthorized person detected
+[2026-07-05_10-42-04] Unauthorized person detected
+[2026-07-05_10-42-20] Unauthorized person detected
+[2026-07-05_10-42-36] Unauthorized person detected
+[2026-07-05_10-42-52] Unauthorized person detected
+[2026-07-05_10-43-07] Unauthorized person detected
+[2026-07-05_10-43-23] Unauthorized person detected
+[2026-07-05_10-43-41] Unauthorized person detected
+[2026-07-05_10-43-58] Unauthorized person detected
+[2026-07-05_10-44-13] Unauthorized person detected
+[2026-07-05_10-44-28] Unauthorized person detected
+[2026-07-05_10-44-45] Unauthorized person detected
+[2026-07-05_10-45-02] Unauthorized person detected
+[2026-07-05_10-45-17] Unauthorized person detected
+[2026-07-05_10-45-33] Unauthorized person detected
+[2026-07-05_10-45-48] Unauthorized person detected
+[2026-07-05_10-46-04] Unauthorized person detected
+[2026-07-05_10-46-19] Unauthorized person detected
+[2026-07-05_10-46-35] Unauthorized person detected
+[2026-07-05_10-46-50] PPE violation detected
+[2026-07-05_10-47-06] PPE violation detected
+[2026-07-05_10-47-21] PPE violation detected
+[2026-07-05_10-47-36] PPE violation detected
+[2026-07-05_10-47-51] PPE violation detected
+[2026-07-05_10-48-07] PPE violation detected
+[2026-07-05_11-18-56] Unauthorized person detected
+[2026-07-05_11-19-11] Unauthorized person detected
+[2026-07-05_11-19-27] Unauthorized person detected
+[2026-07-05_11-19-42] Unauthorized person detected
+[2026-07-05_11-19-57] Unauthorized person detected
+[2026-07-05_11-20-13] Unauthorized person detected
+[2026-07-05_11-20-29] Unauthorized person detected
+[2026-07-05_11-20-44] Unauthorized person detected
+[2026-07-05_11-21-02] Unauthorized person detected
+[2026-07-05_11-21-18] Unauthorized person detected
+[2026-07-05_11-21-33] Unauthorized person detected
+[2026-07-05_11-21-49] Unauthorized person detected
+[2026-07-05_11-22-04] Unauthorized person detected
+[2026-07-05_11-22-19] Unauthorized person detected
+[2026-07-05_11-22-34] Unauthorized person detected
+[2026-07-05_11-22-50] Unauthorized person detected
+[2026-07-05_11-23-05] Unauthorized person detected
+[2026-07-05_11-23-21] Unauthorized person detected
+[2026-07-05_11-23-36] Unauthorized person detected
+[2026-07-05_11-23-52] Unauthorized person detected
+[2026-07-05_11-24-07] Unauthorized person detected
+[2026-07-05_11-24-51] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_11-32-20] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_11-32-56] Unauthorized person detected
+[2026-07-05_11-33-12] Unauthorized person detected
+[2026-07-05_11-33-27] Unauthorized person detected
+[2026-07-05_11-33-45] Unauthorized person detected
+[2026-07-05_11-34-04] Unauthorized person detected
+[2026-07-05_11-34-19] Unauthorized person detected
+[2026-07-05_11-34-35] Unauthorized person detected
+[2026-07-05_11-34-51] Unauthorized person detected
+[2026-07-05_11-35-06] Unauthorized person detected
+[2026-07-05_11-35-21] Unauthorized person detected
+[2026-07-05_11-35-36] Unauthorized person detected
+[2026-07-05_11-35-53] Unauthorized person detected
+[2026-07-05_11-36-08] Unauthorized person detected
+[2026-07-05_11-36-23] Unauthorized person detected
+[2026-07-05_11-36-39] Unauthorized person detected
+[2026-07-05_11-36-54] Unauthorized person detected
+[2026-07-05_11-37-10] Unauthorized person detected
+[2026-07-05_11-37-25] Unauthorized person detected
+[2026-07-05_11-37-40] Unauthorized person detected
+[2026-07-05_11-37-56] Unauthorized person detected
+[2026-07-05_11-38-11] Unauthorized person detected
+[2026-07-05_11-43-26] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_12-05-11] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_12-13-50] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-05_18-34-25] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-06_21-39-21] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-06_21-56-43] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-07_10-32-38] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-07_10-33-13] Unauthorized person detected
+[2026-07-07_10-33-30] Unauthorized person detected
+[2026-07-07_10-33-45] Unauthorized person detected
+[2026-07-07_10-34-00] Unauthorized person detected
+[2026-07-07_10-34-16] Unauthorized person detected
+[2026-07-07_10-34-36] PPE violation detected
+[2026-07-07_10-34-55] PPE violation detected
+[2026-07-07_10-35-10] Unauthorized person detected
+[2026-07-07_10-35-26] Unauthorized person detected
+[2026-07-07_10-35-43] PPE violation detected
+[2026-07-07_10-35-58] PPE violation detected
+[2026-07-07_10-36-14] Unauthorized person detected
+[2026-07-07_10-36-30] PPE violation detected
+[2026-07-07_10-36-47] Unauthorized person detected
+[2026-07-07_10-37-05] Unauthorized person detected
+[2026-07-07_10-37-24] Unauthorized person detected
+[2026-07-07_10-37-41] Unauthorized person detected
+[2026-07-07_10-37-57] Unauthorized person detected
+[2026-07-07_10-38-14] Unauthorized person detected
+[2026-07-07_10-38-29] Unauthorized person detected
+[2026-07-07_10-38-45] Unauthorized person detected
+[2026-07-07_10-39-02] Unauthorized person detected
+[2026-07-07_10-39-18] Unauthorized person detected
+[2026-07-07_10-39-34] Unauthorized person detected
+[2026-07-07_10-39-49] Unauthorized person detected
+[2026-07-07_10-40-05] Unauthorized person detected
+[2026-07-07_10-40-21] Unauthorized person detected
+[2026-07-07_10-40-36] Unauthorized person detected
+[2026-07-07_10-40-52] Unauthorized person detected
+[2026-07-07_10-41-07] Unauthorized person detected
+[2026-07-07_10-41-22] Unauthorized person detected
+[2026-07-07_10-41-38] Unauthorized person detected
+[2026-07-07_10-41-54] Unauthorized person detected
+[2026-07-07_10-42-09] Unauthorized person detected
+[2026-07-07_10-42-26] Unauthorized person detected
+[2026-07-07_10-42-41] Unauthorized person detected
+[2026-07-07_10-42-56] Unauthorized person detected
+[2026-07-07_10-43-12] Unauthorized person detected
+[2026-07-07_10-43-29] Unauthorized person detected
+[2026-07-07_10-43-48] Unauthorized person detected
+[2026-07-07_10-43-50] Unauthorized person detected
+[2026-07-07_10-44-10] Unauthorized person detected
+[2026-07-07_10-44-12] Unauthorized person detected
+[2026-07-07_10-44-26] Unauthorized person detected
+[2026-07-07_10-44-28] Unauthorized person detected
+[2026-07-07_10-44-43] Unauthorized person detected
+[2026-07-07_10-44-44] Unauthorized person detected
+[2026-07-07_10-44-59] Unauthorized person detected
+[2026-07-07_10-45-01] Unauthorized person detected
+[2026-07-07_10-45-16] Unauthorized person detected
+[2026-07-07_10-45-19] Unauthorized person detected
+[2026-07-07_10-45-34] Unauthorized person detected
+[2026-07-07_10-45-35] Unauthorized person detected
+[2026-07-07_10-45-50] Unauthorized person detected
+[2026-07-07_10-45-52] Unauthorized person detected
+[2026-07-07_10-46-08] Unauthorized person detected
+[2026-07-07_10-46-10] Unauthorized person detected
+[2026-07-07_10-46-24] Unauthorized person detected
+[2026-07-07_10-46-28] Unauthorized person detected
+[2026-07-07_10-46-40] Unauthorized person detected
+[2026-07-07_10-46-44] Unauthorized person detected
+[2026-07-07_10-46-58] Unauthorized person detected
+[2026-07-07_10-47-01] Unauthorized person detected
+[2026-07-07_10-47-15] Unauthorized person detected
+[2026-07-07_10-47-17] Unauthorized person detected
+[2026-07-07_10-47-33] Unauthorized person detected
+[2026-07-07_10-47-35] Unauthorized person detected
+[2026-07-07_10-47-49] PPE violation detected
+[2026-07-07_10-47-51] Unauthorized person detected
+[2026-07-07_10-48-05] Unauthorized person detected
+[2026-07-07_10-48-10] Unauthorized person detected
+[2026-07-07_10-48-22] PPE violation detected
+[2026-07-07_10-48-28] Unauthorized person detected
+[2026-07-07_10-48-38] Unauthorized person detected
+[2026-07-07_10-48-43] Unauthorized person detected
+[2026-07-07_10-48-55] Unauthorized person detected
+[2026-07-07_10-49-00] Unauthorized person detected
+[2026-07-07_10-49-12] Unauthorized person detected
+[2026-07-07_10-50-02] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-07_10-50-30] Unauthorized person detected
+[2026-07-07_10-50-35] PPE violation detected
+[2026-07-07_10-50-45] PPE violation detected
+[2026-07-07_10-50-55] PPE violation detected
+[2026-07-07_10-51-03] PPE violation detected
+[2026-07-07_10-51-13] PPE violation detected
+[2026-07-07_10-51-19] Unauthorized person detected
+[2026-07-07_10-51-33] PPE violation detected
+[2026-07-07_10-51-36] Unauthorized person detected
+[2026-07-07_10-51-50] PPE violation detected
+[2026-07-07_10-51-51] Unauthorized person detected
+[2026-07-09_20-38-38] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-09_20-40-02] Unauthorized person detected
+[2026-07-09_20-40-20] Unauthorized person detected
+[2026-07-09_20-40-35] Unauthorized person detected
+[2026-07-09_20-40-55] Unauthorized person detected
+[2026-07-09_20-41-17] Unauthorized person detected
+[2026-07-09_20-41-43] Unauthorized person detected
+[2026-07-09_20-42-05] Unauthorized person detected
+[2026-07-09_20-42-23] Unauthorized person detected
+[2026-07-09_20-42-39] Unauthorized person detected
+[2026-07-09_20-42-55] Unauthorized person detected
+[2026-07-09_20-43-13] Unauthorized person detected
+[2026-07-09_20-43-28] Unauthorized person detected
+[2026-07-09_20-43-45] Unauthorized person detected
+[2026-07-09_20-44-00] Unauthorized person detected
+[2026-07-09_20-44-18] Unauthorized person detected
+[2026-07-09_20-44-36] Unauthorized person detected
+[2026-07-09_20-44-52] Unauthorized person detected
+[2026-07-09_20-45-10] Unauthorized person detected
+[2026-07-09_20-45-26] Unauthorized person detected
+[2026-07-09_20-45-45] Unauthorized person detected
+[2026-07-09_20-46-01] Unauthorized person detected
+[2026-07-09_20-46-18] Unauthorized person detected
+[2026-07-09_20-46-44] Unauthorized person detected
+[2026-07-09_20-46-58] Unauthorized person detected
+[2026-07-09_20-47-07] Unauthorized person detected
+[2026-07-09_20-47-13] Unauthorized person detected
+[2026-07-09_20-47-24] Unauthorized person detected
+[2026-07-09_20-47-32] Unauthorized person detected
+[2026-07-09_20-47-49] Unauthorized person detected
+[2026-07-09_20-47-50] Unauthorized person detected
+[2026-07-09_20-48-06] Unauthorized person detected
+[2026-07-09_20-48-10] Unauthorized person detected
+[2026-07-09_20-48-23] Unauthorized person detected
+[2026-07-09_20-48-34] Unauthorized person detected
+[2026-07-09_20-48-46] Unauthorized person detected
+[2026-07-09_20-49-00] Unauthorized person detected
+[2026-07-09_20-49-17] Unauthorized person detected
+[2026-07-09_20-49-36] Unauthorized person detected
+[2026-07-09_20-49-49] Unauthorized person detected
+[2026-07-09_20-49-59] Unauthorized person detected
+[2026-07-09_20-50-15] Unauthorized person detected
+[2026-07-09_20-50-21] Unauthorized person detected
+[2026-07-09_20-50-41] Unauthorized person detected
+[2026-07-09_20-50-48] Unauthorized person detected
+[2026-07-09_20-51-10] Unauthorized person detected
+[2026-07-09_20-51-15] Unauthorized person detected
+[2026-07-09_20-51-34] Unauthorized person detected
+[2026-07-09_20-51-40] Unauthorized person detected
+[2026-07-09_20-51-50] Unauthorized person detected
+[2026-07-09_20-51-57] Unauthorized person detected
+[2026-07-09_20-52-12] Unauthorized person detected
+[2026-07-09_20-52-17] Unauthorized person detected
+[2026-07-09_20-52-28] Unauthorized person detected
+[2026-07-09_20-52-33] Unauthorized person detected
+[2026-07-09_20-52-46] Unauthorized person detected
+[2026-07-09_20-52-50] Unauthorized person detected
+[2026-07-09_20-53-06] Unauthorized person detected
+[2026-07-09_20-53-09] Unauthorized person detected
+[2026-07-09_20-53-26] Unauthorized person detected
+[2026-07-09_20-53-30] Unauthorized person detected
+[2026-07-09_20-53-49] Unauthorized person detected
+[2026-07-09_20-53-53] Unauthorized person detected
+[2026-07-09_20-54-13] Unauthorized person detected
+[2026-07-09_20-54-17] Unauthorized person detected
+[2026-07-09_20-54-30] Unauthorized person detected
+[2026-07-09_20-54-37] Unauthorized person detected
+[2026-07-09_20-54-48] Unauthorized person detected
+[2026-07-09_20-54-55] Unauthorized person detected
+[2026-07-09_20-55-14] Unauthorized person detected
+[2026-07-09_20-55-17] Unauthorized person detected
+[2026-07-09_20-55-32] Unauthorized person detected
+[2026-07-09_20-55-48] Unauthorized person detected
+[2026-07-09_20-55-59] Unauthorized person detected
+[2026-07-09_20-56-11] Unauthorized person detected
+[2026-07-09_20-56-24] Unauthorized person detected
+[2026-07-09_20-56-44] Unauthorized person detected
+[2026-07-09_20-57-06] Unauthorized person detected
+[2026-07-09_20-57-33] Unauthorized person detected
+[2026-07-09_20-57-36] Unauthorized person detected
+[2026-07-09_21-19-09] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-09_21-19-54] Unauthorized person detected
+[2026-07-09_21-20-11] PPE violation detected
+[2026-07-09_21-20-28] Unauthorized person detected
+[2026-07-09_21-20-43] Unauthorized person detected
+[2026-07-09_21-20-58] Unauthorized person detected
+[2026-07-09_21-21-13] Unauthorized person detected
+[2026-07-09_21-21-29] Unauthorized person detected
+[2026-07-09_21-21-44] Unauthorized person detected
+[2026-07-09_21-21-59] Unauthorized person detected
+[2026-07-09_21-54-05] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-09_21-54-12] Unauthorized person detected
+[2026-07-09_21-54-27] Unauthorized person detected
+[2026-07-09_21-54-42] Unauthorized person detected
+[2026-07-09_21-54-59] Unauthorized person detected
+[2026-07-09_21-55-17] Unauthorized person detected
+[2026-07-09_21-55-32] Unauthorized person detected
+[2026-07-09_21-55-49] Unauthorized person detected
+[2026-07-09_21-56-04] Unauthorized person detected
+[2026-07-09_21-56-20] Unauthorized person detected
+[2026-07-09_21-56-35] Unauthorized person detected
+[2026-07-09_21-56-51] Unauthorized person detected
+[2026-07-09_22-09-37] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-09_22-09-40] Unauthorized person detected
+[2026-07-09_22-09-56] Unauthorized person detected
+[2026-07-09_22-10-12] Unauthorized person detected
+[2026-07-09_22-10-28] Unauthorized person detected
+[2026-07-09_22-10-44] Unauthorized person detected
+[2026-07-09_22-11-00] Unauthorized person detected
+[2026-07-09_22-11-15] Unauthorized person detected
+[2026-07-09_22-11-31] Unauthorized person detected
+[2026-07-09_22-11-47] Unauthorized person detected
+[2026-07-09_22-12-04] Unauthorized person detected
+[2026-07-09_22-12-19] Unauthorized person detected
+[2026-07-09_22-12-34] Unauthorized person detected
+[2026-07-09_22-12-51] Unauthorized person detected
+[2026-07-09_22-13-08] Unauthorized person detected
+[2026-07-09_22-13-23] Unauthorized person detected
+[2026-07-09_22-13-39] Unauthorized person detected
+[2026-07-09_22-13-55] Unauthorized person detected
+[2026-07-09_22-14-10] Unauthorized person detected
+[2026-07-09_22-14-26] Unauthorized person detected
+[2026-07-09_22-14-42] Unauthorized person detected
+[2026-07-09_22-14-59] Unauthorized person detected
+[2026-07-09_22-15-14] Unauthorized person detected
+[2026-07-09_22-15-30] Unauthorized person detected
+[2026-07-09_22-15-46] Unauthorized person detected
+[2026-07-09_22-16-02] Unauthorized person detected
+[2026-07-09_22-16-17] Unauthorized person detected
+[2026-07-09_22-16-33] Unauthorized person detected
+[2026-07-09_22-16-48] PPE violation detected
+[2026-07-09_22-17-05] PPE violation detected
+[2026-07-09_22-17-21] Unauthorized person detected
+[2026-07-09_22-17-36] Unauthorized person detected
+[2026-07-09_22-17-51] Unauthorized person detected
+[2026-07-09_22-18-06] Unauthorized person detected
+[2026-07-09_22-18-22] Unauthorized person detected
+[2026-07-09_22-18-38] Unauthorized person detected
+[2026-07-09_22-18-55] Unauthorized person detected
+[2026-07-09_22-19-11] Unauthorized person detected
+[2026-07-09_22-19-26] Unauthorized person detected
+[2026-07-09_22-19-41] Unauthorized person detected
+[2026-07-09_22-19-57] Unauthorized person detected
+[2026-07-09_22-20-12] Unauthorized person detected
+[2026-07-09_22-20-27] Unauthorized person detected
+[2026-07-09_22-20-43] Unauthorized person detected
+[2026-07-09_22-20-58] Unauthorized person detected
+[2026-07-09_22-26-03] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-09_22-26-13] Unauthorized person detected
+[2026-07-09_22-26-28] Unauthorized person detected
+[2026-07-09_22-26-43] Unauthorized person detected
+[2026-07-10_09-35-27] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-10_09-35-33] Unauthorized person detected
+[2026-07-10_09-35-49] Unauthorized person detected
+[2026-07-10_09-36-05] Unauthorized person detected
+[2026-07-10_09-44-33] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-10_09-44-36] Unauthorized person detected
+[2026-07-10_09-44-57] Unauthorized person detected
+[2026-07-10_09-45-13] Unauthorized person detected
+[2026-07-10_09-45-28] Unauthorized person detected
+[2026-07-10_09-45-43] Unauthorized person detected
+[2026-07-10_09-45-59] Unauthorized person detected
+[2026-07-10_09-46-14] Unauthorized person detected
+[2026-07-10_09-46-29] Unauthorized person detected
+[2026-07-10_09-48-13] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-10_09-48-15] Unauthorized person detected
+[2026-07-10_09-48-30] Unauthorized person detected
+[2026-07-10_09-48-45] Unauthorized person detected
+[2026-07-10_09-49-01] Unauthorized person detected
+[2026-07-10_09-49-16] Unauthorized person detected
+[2026-07-10_09-49-31] Unauthorized person detected
+[2026-07-10_09-49-46] Unauthorized person detected
+[2026-07-10_09-50-01] Unauthorized person detected
+[2026-07-10_09-50-16] Unauthorized person detected
+[2026-07-10_09-50-32] Unauthorized person detected
+[2026-07-10_09-50-47] Unauthorized person detected
+[2026-07-10_09-51-03] Unauthorized person detected
+[2026-07-10_09-51-18] Unauthorized person detected
+[2026-07-10_09-51-33] Unauthorized person detected
+[2026-07-10_10-08-52] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-10_10-08-56] Unauthorized person detected
+[2026-07-10_10-09-12] Unauthorized person detected
+[2026-07-20_20-54-46] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-07-20_20-54-49] Unauthorized person detected
+[2026-07-20_20-55-04] Unauthorized person detected
+[2026-07-20_20-55-21] Unauthorized person detected
+[2026-07-20_20-55-36] Unauthorized person detected
+[2026-07-20_20-55-52] Unauthorized person detected
+[2026-07-20_20-56-08] Unauthorized person detected
+[2026-07-20_20-56-24] Unauthorized person detected
+[2026-07-20_20-56-41] Unauthorized person detected
+[2026-07-20_20-56-57] Unauthorized person detected
+[2026-07-20_20-57-12] Unauthorized person detected
+[2026-07-20_20-57-28] Unauthorized person detected
+[2026-07-20_20-57-44] Unauthorized person detected
+[2026-07-20_20-58-00] Unauthorized person detected
+[2026-07-20_20-58-15] Unauthorized person detected
+[2026-07-20_20-58-31] Unauthorized person detected
+[2026-07-20_20-58-47] Unauthorized person detected
+[2026-07-20_20-59-02] Unauthorized person detected
+[2026-07-20_20-59-17] Unauthorized person detected
+[2026-07-20_20-59-33] Unauthorized person detected
+[2026-07-20_20-59-48] Unauthorized person detected
+[2026-07-20_21-00-03] Unauthorized person detected
+[2026-07-20_21-00-19] Unauthorized person detected
+[2026-07-20_21-00-34] Unauthorized person detected
+[2026-07-20_21-00-49] Unauthorized person detected
+[2026-08-01_06-53-25] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-08-01_06-53-28] Unauthorized person detected
+[2026-08-01_06-53-44] Unauthorized person detected
+[2026-08-01_06-54-00] Unauthorized person detected
+[2026-08-01_06-54-15] Unauthorized person detected
+[2026-08-01_06-54-34] PPE violation detected
+[2026-08-01_14-30-27] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-08-01_14-30-36] Unauthorized person detected
+[2026-08-01_14-31-53] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-08-01_14-31-54] Unauthorized person detected
+[2026-08-27_14-17-11] TEST ALERT FROM AI SURVEILLANCE SYSTEM
+[2026-08-27_14-18-03] Unauthorized person detected
+[2026-08-27_14-18-18] Unauthorized person detected
+[2026-08-27_14-18-33] Unauthorized person detected
+[2026-08-27_14-18-50] Unauthorized person detected
+[2026-08-27_14-19-06] Unauthorized person detected
+[2026-08-27_14-19-22] Unauthorized person detected

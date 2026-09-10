@@ -1,0 +1,13 @@
+[
+  {
+    "id": "cam_default",
+    "name": "Main Camera",
+    "url": 0
+  },
+  {
+    "id": "cam_1783610203",
+    "name": "iphone",
+    "url": "rtsp://192.168.29.188/stream",
+    "ssid": "Javvaji5G"
+  }
+]
