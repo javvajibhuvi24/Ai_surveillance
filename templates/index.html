@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIVE OBJECT IDENTIFICATION FRAMEWORK WITH YOLO</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Premium Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Custom Style Sheet -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="fa-solid fa-shield-halved logo-icon"></i>
+                    <span>EdgeShield AI</span>
+                </div>
+                <div class="system-status">
+                    <span class="status-pulse green"></span>
+                    <span class="status-text">LIVE MONITORING</span>
+                </div>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active" data-tab="live-tab">
+                    <i class="fa-solid fa-tv"></i>
+                    <span>Live Monitor</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="registry-tab">
+                    <i class="fa-solid fa-users-gear"></i>
+                    <span>Face Registry</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="test-tab">
+                    <i class="fa-solid fa-upload"></i>
+                    <span>Static Test</span>
+                </a>
+                <a href="/history" class="nav-item">
+                    <i class="fa-solid fa-clock-rotate-left"></i>
+                    <span>History</span>
+                </a>
+                <a href="#" class="nav-item" onclick="openNetworkModal()">
+                    <i class="fa-solid fa-wifi"></i>
+                    <span>Wi-Fi Config</span>
+                </a>
+                <a href="#" class="nav-item" onclick="openEmailModal()">
+                    <i class="fa-solid fa-envelope"></i>
+                    <span>Email Alerts</span>
+                </a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <a href="/logout" style="display:flex;align-items:center;gap:8px;color:#64748b;font-size:12px;text-decoration:none;padding:8px 4px;border-radius:8px;transition:color 0.2s;" onmouseover="this.style.color='#f87171'" onmouseout="this.style.color='#64748b'">
+                    <i class="fa-solid fa-right-from-bracket"></i> Logout ({{ session_user }})
+                </a>
+                <p class="framework-version">Framework v1.3.0 (YOLOv8)</p>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Top Header -->
+            <header class="main-header">
+                <div class="title-section">
+                    <h1>LIVE OBJECT IDENTIFICATION FRAMEWORK WITH YOLO</h1>
+                    <p class="subtitle">AI-Powered Industrial Safety & Personnel Surveillance System</p>
+                </div>
+                <div class="header-actions">
+                    <div id="connection-status" class="status-tag success">
+                        <i class="fa-solid fa-wifi"></i> Connected
+                    </div>
+                </div>
+            </header>
+
+            <!-- Tabs Container -->
+            <div class="tabs-container">
+                
+                <!-- 1. LIVE MONITOR TAB -->
+                <div id="live-tab" class="tab-content active">
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 20px;">
+                        <h2>Live Monitoring Hub</h2>
+                        <button class="btn btn-primary" onclick="document.getElementById('add-cam-modal').style.display='flex'"><i class="fa-solid fa-plus"></i> Add IP Camera</button>
+                    </div>
+                    
+                    <div class="dashboard-grid">
+                        <!-- Left: Multi-Camera Grid -->
+                        <div class="grid-col-8" id="camera-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
+                            <!-- Dynamic camera cards will be injected here -->
+                            <div class="empty-state" style="grid-column: span 2; text-align: center; padding: 60px;"><i class="fa-solid fa-spinner fa-spin" style="font-size:30px; margin-bottom:15px; color:var(--accent);"></i><br>Loading cameras...</div>
+                        </div>
+
+                        <!-- Right: Stats Chart & Alert Feed -->
+                        <div class="grid-col-4">
+                            <!-- Chart Card -->
+                            <div class="card chart-card">
+                                <div class="card-header">
+                                    <h3><i class="fa-solid fa-chart-line text-accent"></i> Compliance Trend</h3>
+                                </div>
+                                <div class="chart-container">
+                                    <canvas id="complianceChart"></canvas>
+                                </div>
+                            </div>
+
+                            <!-- Alerts Card -->
+                            <div class="card alerts-card">
+                                <div class="card-header">
+                                    <h3><i class="fa-solid fa-triangle-exclamation text-alert"></i> Incident Feed</h3>
+                                    <span class="badge badge-alert">Real-time</span>
+                                </div>
+                                <div class="alerts-feed" id="alerts-feed">
+                                    <!-- Dynamic alerts go here -->
+                                    <div class="alert-empty-state">
+                                        <i class="fa-solid fa-bell-slash"></i>
+                                        <p>No safety incidents recorded recently.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2. FACE REGISTRY TAB -->
+                <div id="registry-tab" class="tab-content">
+                    <div class="registry-grid">
+                        <!-- Left: Form to upload -->
+                        <div class="card registration-card">
+                            <div class="card-header">
+                                <h3><i class="fa-solid fa-user-plus text-accent"></i> Register Authorized Personnel</h3>
+                            </div>
+                            <form id="upload-face-form" class="premium-form">
+                                <div class="form-group">
+                                    <label for="reg-name">Full Name</label>
+                                    <div class="input-wrapper">
+                                        <i class="fa-solid fa-user input-icon"></i>
+                                        <input type="text" id="reg-name" name="name" placeholder="e.g. John Doe" required>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="reg-image">Face Photograph</label>
+                                    <div class="file-drop-area" id="file-drop-face">
+                                        <i class="fa-solid fa-cloud-arrow-up file-icon"></i>
+                                        <span class="file-message">Drag & drop or click to upload</span>
+                                        <span class="file-info">Supports JPG, PNG, WEBP (Max 5MB)</span>
+                                        <input type="file" id="reg-image" name="image" accept="image/*" required>
+                                    </div>
+                                    <div id="face-preview-container" class="image-preview-container hidden">
+                                        <img id="face-preview" src="#" alt="Preview">
+                                        <button type="button" id="btn-remove-face" class="btn-icon btn-danger"><i class="fa-solid fa-trash"></i></button>
+                                    </div>
+                                </div>
+                                <button type="submit" class="btn btn-primary btn-block">
+                                    <i class="fa-solid fa-floppy-disk"></i> Save & Register Face
+                                </button>
+                            </form>
+                        </div>
+
+                        <!-- Right: List of registered faces -->
+                        <div class="card list-faces-card">
+                            <div class="card-header">
+                                <h3><i class="fa-solid fa-id-card text-accent"></i> Authorized Catalog</h3>
+                                <span id="face-count" class="badge">0 Members</span>
+                            </div>
+                            <div class="face-list-grid" id="face-list-grid">
+                                <!-- Dynamic faces list -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3. STATIC TEST TAB -->
+                <div id="test-tab" class="tab-content">
+                    <div class="test-grid">
+                        <!-- Image Upload for Testing -->
+                        <div class="card upload-test-card">
+                            <div class="card-header">
+                                <h3><i class="fa-solid fa-camera-retro text-accent"></i> Static Image Inference</h3>
+                            </div>
+                            <form id="test-image-form" class="premium-form">
+                                <div class="form-group">
+                                    <label>Upload Image to Analyze</label>
+                                    <div class="file-drop-area" id="file-drop-test">
+                                        <i class="fa-solid fa-image file-icon"></i>
+                                        <span class="file-message">Drag & drop image here or click to browse</span>
+                                        <span class="file-info">Test face authorization & PPE compliance instantly</span>
+                                        <input type="file" id="test-image" name="image" accept="image/*" required>
+                                    </div>
+                                    <div id="test-preview-container" class="image-preview-container hidden">
+                                        <img id="test-preview" src="#" alt="Preview">
+                                        <button type="button" id="btn-remove-test" class="btn-icon btn-danger"><i class="fa-solid fa-trash"></i></button>
+                                    </div>
+                                </div>
+                                <button type="submit" id="btn-test-submit" class="btn btn-primary">
+                                    <i class="fa-solid fa-microchip"></i> Run AI Analysis
+                                </button>
+                            </form>
+                        </div>
+
+                        <!-- Inference Result Display -->
+                        <div class="card test-results-card hidden" id="test-results-card">
+                            <div class="card-header">
+                                <h3><i class="fa-solid fa-chart-pie text-accent"></i> Detection Results</h3>
+                                <button type="button" id="btn-clear-test" class="btn-link"><i class="fa-solid fa-rotate-left"></i> Reset</button>
+                            </div>
+                            <div class="results-layout">
+                                <div class="result-image-wrapper">
+                                    <img id="test-result-img" src="" alt="Annotated Test Result">
+                                </div>
+                                <div class="result-details">
+                                    <div class="result-kpis">
+                                        <div class="result-kpi-item">
+                                            <span class="label">Compliance Score</span>
+                                            <div class="value" id="test-result-score">0%</div>
+                                        </div>
+                                        <div class="result-kpi-item">
+                                            <span class="label">Identified Person</span>
+                                            <div class="value" id="test-result-person">UNKNOWN</div>
+                                        </div>
+                                    </div>
+                                    <div class="detected-items-section">
+                                        <h4>PPE Safety Checklist</h4>
+                                        <div class="ppe-checklist" id="ppe-checklist">
+                                            <!-- Dynamic checklist: injected by JS -->
+                                        </div>
+                                    </div>
+                                    <div class="detected-items-section" style="margin-top:12px;">
+                                        <h4>All Detected Classes</h4>
+                                        <div class="tag-container" id="test-result-tags">
+                                            <!-- Dynamic tags -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </main>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Add Camera Modal -->
+    <div class="modal-backdrop" id="add-cam-modal" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.7); backdrop-filter:blur(4px); z-index:999; align-items:center; justify-content:center;">
+        <div class="card" style="width: 450px; padding: 24px; position:relative; background: var(--surface);">
+            <h3 style="margin-bottom: 20px;"><i class="fa-solid fa-plus text-accent"></i> Add IP Camera</h3>
+            <button onclick="document.getElementById('add-cam-modal').style.display='none'" style="position:absolute; top:20px; right:20px; background:none; border:none; color:var(--muted); font-size:18px; cursor:pointer;"><i class="fa-solid fa-xmark"></i></button>
+            <div class="form-group" style="margin-bottom:15px;">
+                <label style="display:block; margin-bottom:8px; font-size:13px; color:var(--muted);">Camera Name</label>
+                <input type="text" id="new-cam-name" style="width:100%; padding:10px 14px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:white; outline:none;" placeholder="e.g. Warehouse Cam 1">
+            </div>
+            
+            <div class="form-group" style="margin-bottom:15px; position:relative;">
+                <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:8px;">
+                    <label style="display:block; font-size:13px; color:var(--muted);">Stream URL (RTSP / HTTP / IP)</label>
+                    <button type="button" class="btn-link" style="font-size:11px;" onclick="scanNetworkCameras(this)"><i class="fa-solid fa-magnifying-glass-location"></i> Scan Network</button>
+                </div>
+                <input type="text" id="new-cam-url" style="width:100%; padding:10px 14px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:white; outline:none; margin-bottom:8px;" placeholder="rtsp://admin:pass@192.168.1.10:554/stream1">
+                <div style="background:rgba(0,212,255,0.05); border:1px solid rgba(0,212,255,0.15); border-radius:6px; padding:10px 12px; font-size:11px; color:var(--muted); line-height:1.8;">
+                    <strong style="color:#00d4ff;">Supported formats:</strong><br>
+                    📡 RTSP &nbsp;— <code style="color:#94a3b8;">rtsp://admin:pass@192.168.1.10:554/stream1</code><br>
+                    🌐 HTTP &nbsp;— <code style="color:#94a3b8;">http://192.168.1.10:8080/video</code><br>
+                    📷 Webcam — <code style="color:#94a3b8;">0</code> &nbsp;(or 1, 2 for other cameras)
+                </div>
+                
+                <div id="scan-results-dropdown" style="display:none; position:absolute; top:70px; left:0; right:0; background:var(--surface); border:1px solid var(--border); border-radius:8px; z-index:10; max-height:150px; overflow-y:auto; box-shadow:0 10px 25px rgba(0,0,0,0.5);">
+                    <!-- Discovered cameras go here -->
+                </div>
+            </div>
+            
+            <div class="form-group" style="margin-bottom:25px;">
+                <label style="display:block; margin-bottom:8px; font-size:13px; color:var(--muted);">Wi-Fi Network / SSID (Optional)</label>
+                <input type="text" id="new-cam-ssid" style="width:100%; padding:10px 14px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:white; outline:none;" placeholder="e.g. Office_Guest">
+            </div>
+            <button class="btn btn-primary" style="width:100%; justify-content:center;" onclick="submitNewCamera()">Add Camera</button>
+        </div>
+    </div>
+
+    <!-- Wi-Fi Settings Modal -->
+    <div class="modal-backdrop" id="wifi-modal" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.7); backdrop-filter:blur(4px); z-index:999; align-items:center; justify-content:center;">
+        <div class="card" style="width: 450px; padding: 24px; position:relative; background: var(--surface);">
+            <h3 style="margin-bottom: 20px;"><i class="fa-solid fa-wifi text-accent"></i> Network Configuration</h3>
+            <button onclick="document.getElementById('wifi-modal').style.display='none'" style="position:absolute; top:20px; right:20px; background:none; border:none; color:var(--muted); font-size:18px; cursor:pointer;"><i class="fa-solid fa-xmark"></i></button>
+            
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
+                <label style="font-size:13px; color:var(--muted); margin:0;">Available Networks</label>
+                <button class="btn-link" style="font-size:12px;" onclick="fetchWifiNetworks(this)"><i class="fa-solid fa-rotate-right"></i> Refresh</button>
+            </div>
+            
+            <select id="wifi-ssid-select" style="width:100%; padding:12px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:white; outline:none; margin-bottom:15px; cursor:pointer;">
+                <option value="">-- Select a Network --</option>
+            </select>
+            
+            <div class="form-group" style="margin-bottom:25px;">
+                <label style="display:block; margin-bottom:8px; font-size:13px; color:var(--muted);">Wi-Fi Password</label>
+                <input type="password" id="wifi-password" style="width:100%; padding:10px 14px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:white; outline:none;" placeholder="••••••••">
+            </div>
+            
+            <button class="btn btn-primary" style="width:100%; justify-content:center;" onclick="connectWifi(this)"><i class="fa-solid fa-link"></i> Connect Network</button>
+        </div>
+    </div>
+
+    <!-- Email Settings Modal -->
+    <div class="modal-backdrop" id="email-modal" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.7); backdrop-filter:blur(4px); z-index:999; align-items:center; justify-content:center;">
+        <div class="card" style="width:500px; padding:28px; position:relative; background:var(--surface);">
+            <h3 style="margin-bottom:6px;"><i class="fa-solid fa-envelope text-accent"></i> Email Alert Settings</h3>
+            <p style="font-size:12px; color:var(--muted); margin-bottom:20px;">Receive safety incident alerts directly in your inbox with snapshot photos.</p>
+            <button onclick="document.getElementById('email-modal').style.display='none'" style="position:absolute; top:20px; right:20px; background:none; border:none; color:var(--muted); font-size:18px; cursor:pointer;"><i class="fa-solid fa-xmark"></i></button>
+
+            <!-- Enable Toggle -->
+            <div style="display:flex; justify-content:space-between; align-items:center; background:var(--surface2); border:1px solid var(--border); border-radius:10px; padding:14px 16px; margin-bottom:16px;">
+                <div>
+                    <div style="font-size:14px; font-weight:600;">Enable Email Alerts</div>
+                    <div style="font-size:11px; color:var(--muted); margin-top:2px;">Send alert emails when incidents are detected</div>
+                </div>
+                <label style="position:relative; display:inline-block; width:44px; height:24px; cursor:pointer;">
+                    <input type="checkbox" id="email-enabled" style="opacity:0; width:0; height:0;" onchange="document.getElementById('email-enabled-slider').style.background = this.checked ? '#00d4ff' : '#334155'">
+                    <span id="email-enabled-slider" style="position:absolute; inset:0; border-radius:24px; background:#334155; transition:0.3s;">
+                        <span style="position:absolute; width:18px; height:18px; background:white; border-radius:50%; top:3px; left:3px; transition:0.3s;" id="email-toggle-knob"></span>
+                    </span>
+                </label>
+            </div>
+
+            <div class="form-group" style="margin-bottom:14px;">
+                <label style="display:block; margin-bottom:7px; font-size:13px; color:var(--muted);">Your Gmail Address (Sender)</label>
+                <input type="email" id="email-sender" placeholder="youremail@gmail.com" style="width:100%; padding:10px 14px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:white; outline:none;">
+            </div>
+
+            <div class="form-group" style="margin-bottom:14px;">
+                <div style="display:flex; justify-content:space-between; margin-bottom:7px;">
+                    <label style="font-size:13px; color:var(--muted);">Gmail App Password</label>
+                    <a href="https://myaccount.google.com/apppasswords" target="_blank" style="font-size:11px; color:#00d4ff; text-decoration:none;"><i class="fa-solid fa-arrow-up-right-from-square"></i> Generate App Password</a>
+                </div>
+                <input type="password" id="email-password" placeholder="16-character app password" style="width:100%; padding:10px 14px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:white; outline:none;">
+                <small style="color:var(--muted); font-size:11px; display:block; margin-top:5px;">⚠️ Do NOT use your real Gmail password. Generate an App Password from your Google Account.</small>
+            </div>
+
+            <div class="form-group" style="margin-bottom:20px;">
+                <label style="display:block; margin-bottom:7px; font-size:13px; color:var(--muted);">Alert Recipients (comma-separated)</label>
+                <input type="text" id="email-recipients" placeholder="boss@company.com, safety@company.com" style="width:100%; padding:10px 14px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:white; outline:none;">
+            </div>
+
+            <div style="display:flex; gap:10px;">
+                <button class="btn btn-primary" style="flex:1; justify-content:center;" onclick="saveEmailSettings(this)"><i class="fa-solid fa-floppy-disk"></i> Save Settings</button>
+                <button class="btn" style="padding:10px 16px; background:var(--surface2); border:1px solid var(--border); color:white; border-radius:8px; cursor:pointer; font-size:13px;" onclick="testEmail(this)"><i class="fa-solid fa-paper-plane"></i> Send Test</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
